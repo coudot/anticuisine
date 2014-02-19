@@ -1,0 +1,93 @@
+title: Anticuisine - le site
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+----
+
+<!-- tmpl_var name="menu"-->
+
+    <!-- Carousel
+    ================================================== -->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
+        <li data-target="#myCarousel" data-slide-to="4"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="item active">
+          <img src="images/anticuisine.fr_chaussons.jpg" />
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Le livre</h1>
+              <p>Actuellement en préparation, le livre sera bientôt en vente.</p>
+              <p><a class="btn btn-lg btn-primary" href="livre.html" role="button">Suivre l'avancement du projet</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img src="images/anticuisine.fr_recette.jpg" />
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Les recettes</h1>
+              <p>Quelques exemples des recettes d'anticuisine</p>
+              <p><a class="btn btn-lg btn-primary" href="#" role="button">Voir les recettes</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img src="images/anticuisine.fr_poisson.jpg" />
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>L'émission</h1>
+              <p>Des vidéos pour découvrir plus en profondeur l'art de l'anticuisine</p>
+              <p><a class="btn btn-lg btn-primary" href="#" role="button">Voir l'émission</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img src="images/anticuisine.fr_patate.jpg" />
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Les précurseurs</h1>
+              <p>Artistes, films, livres qui ont inspiré l'anticuisine</p>
+              <p><a class="btn btn-lg btn-primary" href="#" role="button">Les précurseurs</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img src="images/anticuisine.fr_canibales.jpg" />
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>L'équipe</h1>
+              <p>L'anticuisine n'aurait malheureusement pas existée sans eux</p>
+              <p><a class="btn btn-lg btn-primary" href="equipe.html" role="button">Les anticuisiniers</a></p>
+            </div>
+          </div>
+        </div>
+
+
+      </div>
+      <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+      <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+    </div><!-- /.carousel -->
+
+   <div class="container">
+       <img src="images/anticuisine.fr_logo.png" class="pull-left img-responsive logo" />
+       <div class="page-header">
+          <h1>
+            <span class="glyphicon glyphicon-fire"></span>
+            Anticuisine
+             <span class="glyphicon glyphicon-fire"></span>
+          </h1>
+       </div>
+          <div class="container">
+          <p>L'anticuisine n'est ni un courant, ni un dogme encore moins un choix.</p>
+          <p>Elle est une forme élaborée de déchéance moderne dans laquelle beaucoup se reconnaîtront.</p>
+          <p>Elle est une imposture d'esprit reliant toute une somme de performances périphériques.</>
+          <p>Elle est au final un pavé dans la soupe, une vaste blague bien décalée.</p>
+          </div>
+   </div>
+
