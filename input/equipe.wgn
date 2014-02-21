@@ -150,7 +150,7 @@ pied: read_file('pied.inc')
   </div>
 
 
-  <div class="panel panel-danger">
+  <div class="panel panel-info">
 
   <div class="panel-heading">
     <h1 class="panel-title center">Remerciements</h1>
@@ -180,7 +180,16 @@ pied: read_file('pied.inc')
 <li>Clément Bataillon</li>
 </ul>
 
-<h4 class="center">Remerciements spéciaux</h4>
+  </div>
+  </div>
+
+  <div class="panel panel-danger">
+
+  <div class="panel-heading">
+    <h1 class="panel-title center">Remerciements spéciaux</h1>
+  </div>
+
+  <div class="panel-body">
 <p>Dans la première maquette du livre d'anticuisine qui devait initialement être une oeuvre caritative, un certains nombres de personnalités ont accepté que certaines de leurs productions y figurent. Même si ce livre n'existera pas dans sa forme initiale, je souhaite remercier chaleureusement :</p>
 <ul>
 <li>Ju Duoqi, artiste chinoise, et la galerie Paris-Beijing</li>
