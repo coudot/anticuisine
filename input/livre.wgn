@@ -12,18 +12,42 @@ pied: read_file('pied.inc')
 <div class="panel panel-info">
 
   <div class="panel-heading">
-    <h1 class="panel-title text-center">Point sur l'avancement du projet</h1>
+    <h1 class="panel-title text-center">Avancement de la maquette</h1>
   </div>
 
   <div class="row panel-body">
 
-    <div class="col-md-4">
+    <div class="col-md-8">
       <p>Une maquette du livre d'anticuisine existe déjà.</p>
       <p>KPTN et Guilhem sont en train de colmater les quelques brèches résiduelles.</p>
       <p>Nuggette, qui est graphiste, est en train de le remettre intégralement en page.</p>
+
+      <div class="row">
+
+         <div class="col-md-6">
+           <h3 class="text-center">Version light</h3>
+           <ul>
+             <li>Première maquette <span class="badge">100%</span></li>
+             <li>Colmatage des fuites <span class="badge">95%</span></li>
+             <li>Mise en page pro <span class="badge">30%</span></li>
+             <li>Édition <span class="badge">0%</span></li>
+           </ul>
+         </div>
+
+         <div class="col-md-6">
+           <h3 class="text-center">Version fat</h3>
+           <ul>
+             <li>Première maquette <span class="badge">100%</span></li>
+             <li>Colmatage des fuites <span class="badge">70%</span></li>
+             <li>Mise en page pro <span class="badge">10%</span></li>
+             <li>Édition <span class="badge">0%</span></li>
+           </ul>
+         </div>
+      </div>
+
     </div>
 
-    <div class="col-md-8">
+    <div class="col-md-4">
       <img src="images/anticuisine.fr_chaussons.jpg" class="img-thumbnail img-responsive" />
     </div>
 
