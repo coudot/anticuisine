@@ -24,7 +24,7 @@ pied: read_file('pied.inc')
 <h3>Présentation</h3>
 <p>J'ai 33 ans. J'écris depuis mes 24 ans mais je me suis interrompu ces dernières années pour avoir trois enfants. Ayant atteint la limite fatidique au delà de laquelle l'achat d'une nouvelle voiture devient indispensable et comme je n'ai pas d'argent - ni de tendances suicidaires - je me suis arrêté de procréer et je me suis libéré du temps libre. Je me consacre à nouveau, sous le regard patient de ma compagne, à ma passion de toujours : l'écriture.</p>
 <p>En véritable écrit en vain que je suis, j'ai déjà commis un roman et je suis en train d'en commettre deux autres. Ce livre d'anticuisine est un petit projet décalé qui a moisi pendant quatre ans dans un trieur sordide et pour lequel de nombreuses personnes m'ont aidé. Sous la pression de mon entourage, il resurgit aujourd'hui pour illuminer le monde de son intelligente bêtise mais sous une forme plus aboutie. Grâce à Clément Oudot, une sorte de muse pour moi, grâce à Emilie Sidoli, une sorte de graphiste pour moi (...une amie), ce livre va voir le jour et s'écouler à 11 exemplaires !</p>
-<p>Pire encore, j'ai décidé de commettre les scénarios d'une émission / websérie afin de ne pas être le seul mec de ma génération à ne pas savoir poster une vidéo sur youtube. J'ai donc pris contact avec un vieil ami dans l'audio-visuel : Olivier Ziel, qui a mobilisé son réseau.</p>
+<p>Pire encore, j'ai décidé de commettre les scénarios d'une émission / websérie afin de ne pas être le seul mec de ma génération à ne pas savoir poster une vidéo sur youtube. J'ai donc pris contact avec un vieil ami dans l'audio-visuel : Olivier Z, qui a mobilisé son réseau.</p>
 <p>Afin d'éviter un internement précoce suivi d'une mise sous tutelle, je me refuse à évoquer mes nombreux autres projets. Comme vous l'aurez compris j'écris sans me prendre au sérieux en essayant de distraire et de faire rire.</p>
 <p>Comme j'ai un métier dans la vraie vie pour lequel une certaine image de neutralité est nécessaire, je me cache derrière un pseudonyme et une casquette rose, qui était rouge quand j'avais 12 ans. Vous découvrirez mon vrai nom si vous soutenez le projet Anticuisine sur le crowdfunding. Je ne suis donc pas un escroc financier ; intellectuellement parlant par contre je m''inquiète parfois moi-même. D'ailleurs, je vais m'arrêter d'écrire sur moi-même car je commence à m'angoisser.</p>
 <p>Merci de m'aider à échouer dans ma carrière d'Ecrit-en-vain !</p>
@@ -126,11 +126,13 @@ pied: read_file('pied.inc')
 
   <div class="row">
     <div class="col-md-3">
-      <h2 class="-text-center">Olivier Ziel</h2>
-      <img src="images/anticuisine.fr_equipe_ziel.jpg" class="img-circle img-responsive center-block" />
+      <h2 class="-text-center">Olivier Z</h2>
+      <img src="images/anticuisine.fr_equipe_oz.jpg" class="img-circle img-responsive center-block" />
     </div>
     <div class="col-md-3">
 <h3>Présentation</h3>
+<p>J'ai 33 ans, j'habite Paris. Et pour cause, je travaille dans l'audiovisuel depuis 2005, après des études de cinoche, à divers postes - image, montage. La réalisation est pour l'instant une activité parallèle, mais j'ambitionne qu'elle devienne prépondérante à terme. Mon statut de saltimbanque me permet une belle liberté dans le choix de mes projets en tout cas.</p>
+<p>Néanmoins, l'auteur Guilhem étant un camarade de lycée, je n'ai pu décemment refuser son offre de mettre en scène cette émission, donc me voilà embarqué dans cette galère ! Bon à sa décharge, il me laisse bosser tranquillement, et tyranniser l'équipe comme je l'entends (par exemple quand le comédien est filmé en plan taille, j'exige qu'il soit nu en dessous, c'est essentiel pour la qualité de son jeu), alors ça se passe plutôt bien. Et qui sait, c'est même peut-être le début d'une grande et fructueuse collaboration !</p>
     </div>
     <div class="col-md-3">
       <h2 class="text-center">Valentin Garret</h2>
