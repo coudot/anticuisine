@@ -43,6 +43,10 @@ body {
   text-transform: uppercase;
 }
 
+h1.panel-title {
+  font-size: 1.4em;
+}
+
 /* Logo */
 img.logo {
   margin-right: 10px;
