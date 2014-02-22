@@ -12,12 +12,12 @@ pied: read_file('pied.inc')
   <div class="panel panel-primary">
 
   <div class="panel-heading">
-    <h1 class="panel-title center">L'auteur</h1>
+    <h1 class="panel-title text-center">L'auteur</h1>
   </div>
 
   <div class="row panel-body">
     <div class="col-md-4">
-      <h2 class="center">Guilhem</h2>
+      <h2 class="text-center">Guilhem</h2>
       <img src="images/anticuisine.fr_equipe_guilhem.jpg" class="img-circle img-responsive center-block" />
     </div>
     <div class="col-md-8">
@@ -37,12 +37,12 @@ pied: read_file('pied.inc')
   <div class="panel panel-info">
 
   <div class="panel-heading">
-    <h1 class="panel-title center">Les dessinatrices</h1>
+    <h1 class="panel-title text-center">Les dessinatrices</h1>
   </div>
 
   <div class="row panel-body">
     <div class="col-md-3">
-      <h2 class="center">AA</h2>
+      <h2 class="text-center">AA</h2>
       <img src="images/anticuisine.fr_equipe_aa.jpg" class="img-circle img-responsive center-block" />
     </div>
     <div class="col-md-3">
@@ -52,7 +52,7 @@ pied: read_file('pied.inc')
 <p>Je participe à ce projet sous pseudonyme pour les mêmes raisons que Guilhem ; je ne suis pas non plus une escroc.</p>
     </div>
     <div class="col-md-3">
-      <h2 class="center">Alice</h2>
+      <h2 class="text-center">Alice</h2>
       <img src="images/anticuisine.fr_equipe_alice.jpg" class="img-circle img-responsive center-block" />
     </div>
     <div class="col-md-3">
@@ -69,12 +69,12 @@ pied: read_file('pied.inc')
   <div class="panel panel-success">
 
   <div class="panel-heading">
-    <h1 class="panel-title center">Graphisme et Web</h1>
+    <h1 class="panel-title text-center">Graphisme et Web</h1>
   </div>
 
   <div class="row panel-body">
     <div class="col-md-3">
-      <h2 class="center">Nuggette</h2>
+      <h2 class="text-center">Nuggette</h2>
       <img src="images/anticuisine.fr_equipe_nugget.jpg" class="img-circle img-responsive center-block" />
     </div>
     <div class="col-md-3">
@@ -84,7 +84,7 @@ pied: read_file('pied.inc')
 <p>Et j'espère faire d'une pierre deux coups : aboutir ce chouette projet et perdre mes kilos d'hiver (au rythme de 1 à 2 vomis par recette travaillée, ça peut le faire).</p>
     </div>
     <div class="col-md-3">
-      <h2 class="center">KPTN</h2>
+      <h2 class="text-center">KPTN</h2>
       <img src="images/anticuisine.fr_equipe_kptn.png" class="img-circle img-responsive center-block" />
     </div>
     <div class="col-md-3">
@@ -102,7 +102,7 @@ pied: read_file('pied.inc')
   <div class="panel panel-warning">
 
   <div class="panel-heading">
-    <h1 class="panel-title center">L'émission</h1>
+    <h1 class="panel-title text-center">L'émission</h1>
   </div>
   
   <div class="panel-body">
@@ -119,21 +119,21 @@ pied: read_file('pied.inc')
 <p>Merci de votre soutien !</p>
     </div>
     <div class="col-md-4">
-      <h2 class="center">Strubulu</h2>
+      <h2 class="text-center">Strubulu</h2>
       <img src="images/anticuisine.fr_equipe_strub.jpg" class="img-circle img-responsive center-block" />
     </div>
   </div>
 
   <div class="row">
     <div class="col-md-3">
-      <h2 class="center">Olivier Ziel</h2>
+      <h2 class="-text-center">Olivier Ziel</h2>
       <img src="images/anticuisine.fr_equipe_ziel.jpg" class="img-circle img-responsive center-block" />
     </div>
     <div class="col-md-3">
 <h3>Présentation</h3>
     </div>
     <div class="col-md-3">
-      <h2 class="center">Valentin Garret</h2>
+      <h2 class="text-center">Valentin Garret</h2>
       <img src="images/anticuisine.fr_equipe_valentin.jpg" class="img-circle img-responsive center-block" />
     </div>
     <div class="col-md-3">
@@ -153,7 +153,7 @@ pied: read_file('pied.inc')
   <div class="panel panel-info">
 
   <div class="panel-heading">
-    <h1 class="panel-title center">Remerciements</h1>
+    <h1 class="panel-title text-center">Remerciements</h1>
   </div>
 
   <div class="panel-body">
@@ -186,7 +186,7 @@ pied: read_file('pied.inc')
   <div class="panel panel-danger">
 
   <div class="panel-heading">
-    <h1 class="panel-title center">Remerciements spéciaux</h1>
+    <h1 class="panel-title text-center">Remerciements spéciaux</h1>
   </div>
 
   <div class="panel-body">
