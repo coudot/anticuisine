@@ -1,0 +1,19 @@
+title: Anticuisine - l'émission
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+----
+
+<!-- tmpl_var name="menu"-->
+
+<div class="top">&nbsp;</div>
+
+<div class="container">
+
+  <div class="well">
+  <p><em>Il manquait des mecs pour gâcher de la nourriture afin de compléter un tableau fait de crise économique, d'explosion du chômage des jeunes, de pauvreté galopante, de tensions religieuses et communautaires, mêlés à l'oubli que nous sommes loin d'être pauvres par rapport au reste du monde.</em></p>
+  <p><em>En janvier 2014, j'ai estimé que le monde était mûr, si ce n'est pourri et qu'il serait sain d'enlever une pierre de plus de l'édifice.</em></p>
+  <p><em>Pourquoi ne pas faire une émission d'Anticuisine ? Me suis-je donc dit après avoir oublié le début de ma réflexion.</em></p>
+  <p class="text-right"><strong>Guilhem</strong></p>
+  </div>
+
+</div>
