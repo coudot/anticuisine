@@ -39,4 +39,27 @@ pied: read_file('pied.inc')
 
   </div>
 
+  <div class="panel panel-warning">
+
+    <div class="panel-heading">
+      <h1 class="panel-title text-center">Matériel et compétences</h1>
+    </div>
+
+    <div class="panel-body">
+      <div class="row">
+        <div class="col-md-4">
+          <img src="images/anticuisine.fr_emission_tournage2.jpg" class="img-thumbnail img-responsive center-block" />
+        </div>
+        <div class="col-md-8">
+          <p>Nous disposons gratuitement du matériel pour le son et l'image ; les éclairages sont loués pour chaque tournage.</p>
+          <p>Nous avons créé trois décors : un écran vert (pour effets et incrustations diverses), un décor type pièce d'asile, le décor de l'émission. Nous tournons aussi parfois dans d'autres lieux si nécessaire.</p>
+          <p>L'équipe est composée de professionnels de l'audiovisuel (voir <a href="equipe.html">la page de l'équipe</a> pour découvrir leurs savoir-faires) que nous étofferons au gré des besoins.</p>
+          <p>Le seul à ne pas être pro est Guilhem, qui est l'initiateur-producteur-scénariste.</p>
+          <p>Le "studio" démontable a été crée dans une résidence de particulier.</p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
 </div>
