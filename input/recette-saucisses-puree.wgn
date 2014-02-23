@@ -1,0 +1,84 @@
+title: Anticuisine - les recettes - Saucisses et purée
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+----
+
+<!-- tmpl_var name="menu"-->
+
+<div class="top">&nbsp;</div>
+
+<div class="container">
+
+   <div class="well">
+      <h1 class="text-center">Saucisses et purée</h1>
+   </div>
+
+  <div class="row">
+
+    <div class="col-md-3">
+
+      <div class="panel panel-success">
+
+        <div class="panel-heading">
+          <h1 class="panel-title text-center">Ingrédients</h1>
+        </div>
+
+        <div class="panel-body">
+          <ul>
+            <li>Purée en sachet</li>
+            <li>Saucisses</li>
+          </ul>
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="col-md-9">
+
+        <div class="panel panel-info">
+
+        <div class="panel-heading">
+          <h1 class="panel-title text-center">Étape 1</h1>
+        </div>
+
+        <div class="panel-body">
+          <h2>Faire couler l'eau chaude</h2>
+          <img src="images/recettes/anticuisine.fr_saucissespuree2.jpg" class="img-thumbnail img-responsive center-block" />
+        </div>
+
+        </div>
+
+        <div class="panel panel-info">
+
+        <div class="panel-heading">
+          <h1 class="panel-title text-center">Étape 2</h1>
+        </div>
+
+        <div class="panel-body">
+          <h2>Verser le sachet de purée</h2>
+          <img src="images/recettes/anticuisine.fr_saucissespuree3.jpg" class="img-thumbnail img-responsive center-block" />
+        </div>
+
+        </div>
+
+        <div class="panel panel-info">
+
+        <div class="panel-heading">
+          <h1 class="panel-title text-center">Étape 3</h1>
+        </div>
+
+        <div class="panel-body">
+          <h2>Brûler la saucisse au briquet</h2>
+          <img src="images/recettes/anticuisine.fr_saucissespuree4.jpg" class="img-thumbnail img-responsive center-block" />
+        </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
