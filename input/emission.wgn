@@ -62,4 +62,50 @@ pied: read_file('pied.inc')
 
   </div>
 
+  <div class="panel panel-success">
+
+    <div class="panel-heading">
+      <h1 class="panel-title text-center">Financement</h1>
+    </div>
+
+    <div class="panel-body">
+      <div class="row">
+        <div class="col-md-8">
+          <p>Toute l'équipe travaille gratuitement, voire même de sa poche.</p>
+          <p>Les premières dépenses ont été avancées par Guilhem car il fallait bien vous montrer notre professionnalisme. L'idée maintenant est de nous permettre d'amortir cette dépense via une collecte participative sur un site de crowdfunding et de financer la suite du projet.</p>
+          <p>La poursuite de l'émission dépendra donc de notre capacité à trouver le financement.</p>
+          <p><strong>On compte sur vous !</strong></p>
+        </div>
+        <div class="col-md-4">
+          <img src="images/anticuisine.fr_emission_strubfront.jpg" class="img-thumbnail img-responsive center-block" />
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="panel panel-success">
+
+    <div class="panel-heading">
+      <h1 class="panel-title text-center">Photos du tournage</h1>
+    </div>
+
+    <div class="panel-body">
+      <div class="row">
+        <div class="col-md-3">
+          <img src="images/anticuisine.fr_emission_strubassis.jpg" class="img-thumbnail img-responsive center-block" />
+        </div>
+        <div class="col-md-3">
+          <img src="images/anticuisine.fr_emission_tournage3.jpg" class="img-thumbnail img-responsive center-block" />
+        </div>
+        <div class="col-md-3">
+          <img src="images/anticuisine.fr_emission_oz.jpg" class="img-thumbnail img-responsive center-block" />
+        </div>
+        <div class="col-md-3">
+          <img src="images/anticuisine.fr_emission_guilhem.jpg" class="img-thumbnail img-responsive center-block" />
+        </div>
+      </div>
+    </div>
+
+  </div>
 </div>
