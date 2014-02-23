@@ -16,4 +16,27 @@ pied: read_file('pied.inc')
   <p class="text-right"><strong>Guilhem</strong></p>
   </div>
 
+  <div class="panel panel-info">
+
+    <div class="panel-heading">
+      <h1 class="panel-title text-center">Tout savoir</h1>
+    </div>
+
+    <div class="panel-body">
+      <div class="row">
+        <div class="col-md-8">
+          <p>L'émission Anticuisine est purement humoristique, contrairement au livre suffisamment affûté pour double-trancher. Cela dit : difficile d'être drôle sans être un minimum intelligent. Il n'est pas impossible non plus que ce soit une série. Ce n'est pas qu'on ne sait pas ...SPOILER ... je vous en ai déjà trop dit.</p>
+          <p>6 scénarios sont écrits pour une première saison de 6 épisodes de 3-4 minutes environ, articulés autour d'une recette réalisée en 15 secondes, tout le reste est blagounettes, références geek avec effets spéciaux, parodies de genres et mignons petits délires.</p>
+          <p>Une suite est possible.</p>
+          <p>Dans un premier temps, après avoir franchi l'étape des essais et du "trailer" promotionnel, nous visons la réalisation du pilote pour mai-juin.</p>
+          <p>Ensuite, nous déciderons de la suite à donner à ce projet.</p>
+        </div>
+        <div class="col-md-4">
+          <img src="images/anticuisine.fr_emission_tournage1.jpg" class="img-thumbnail img-responsive center-block" />
+        </div>
+      </div>
+    </div>
+
+  </div>
+
 </div>
