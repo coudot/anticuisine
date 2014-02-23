@@ -16,7 +16,7 @@
               <ul class="nav navbar-nav">
                 <li><a href="livre.html">Le livre</a></li>
                 <li><a href="#">Les recettes</a></li>
-                <li><a href="#">L'émission</a></li>
+                <li><a href="emission.html">L'émission</a></li>
                 <li><a href="#">Les précurseurs</a></li>
                 <li><a href="equipe.html">L'équipe</a></li>
               </ul>
