@@ -33,7 +33,7 @@ pied: read_file('pied.inc')
             <div class="carousel-caption">
               <h1>Les recettes</h1>
               <p>Quelques exemples des recettes d'anticuisine</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Voir les recettes</a></p>
+              <p><a class="btn btn-lg btn-primary" href="recettes.html" role="button">Voir les recettes</a></p>
             </div>
           </div>
         </div>
