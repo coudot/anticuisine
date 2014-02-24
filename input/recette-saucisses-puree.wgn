@@ -10,7 +10,56 @@ pied: read_file('pied.inc')
 <div class="container">
 
    <div class="well">
-      <h1 class="text-center">Saucisses et purée</h1>
+     <div class="row">
+       <div class="col-md-6">
+         <img src="images/recettes/anticuisine.fr_saucissespuree1.jpg" class="img-thumbnail img-responsive" />
+       </div>
+       <div class="col-md-6">
+         <h1 class="text-center">Saucisses et purée</h1>
+         <div class="row">
+           <div class="col-md-6">
+             <p class="lead">Difficulté</p>
+           </div>
+           <div class="col-md-6">
+             <p class="lead text-warning">
+               <span class="glyphicon glyphicon-star"></span> 
+               <span class="glyphicon glyphicon-star-empty"></span> 
+               <span class="glyphicon glyphicon-star-empty"></span> 
+               <span class="glyphicon glyphicon-star-empty"></span> 
+               <span class="glyphicon glyphicon-star-empty"></span> 
+             </p>
+           </div>
+         </div>
+         <div class="row">
+           <div class="col-md-6">
+             <p class="lead">Goût</p>
+           </div>
+           <div class="col-md-6">
+             <p class="lead text-danger">
+               <span class="glyphicon glyphicon-heart"></span> 
+               <span class="glyphicon glyphicon-heart"></span> 
+               <span class="glyphicon glyphicon-heart"></span> 
+               <span class="glyphicon glyphicon-heart-empty"></span> 
+               <span class="glyphicon glyphicon-heart-empty"></span> 
+             </p>
+           </div>
+         </div>
+         <div class="row">
+           <div class="col-md-6">
+             <p class="lead">Toxicité</p>
+           </div>
+           <div class="col-md-6">
+             <p class="lead text-danger">
+               <span class="glyphicon glyphicon-remove-sign"></span> 
+               <span class="glyphicon glyphicon-ok-sign text-success"></span> 
+               <span class="glyphicon glyphicon-ok-sign text-success"></span> 
+               <span class="glyphicon glyphicon-ok-sign text-success"></span> 
+               <span class="glyphicon glyphicon-ok-sign text-success"></span> 
+             </p>
+           </div>
+         </div>
+       </div>
+     </div>
    </div>
 
   <div class="row">
@@ -32,6 +81,45 @@ pied: read_file('pied.inc')
 
       </div>
 
+      <div class="panel panel-danger">
+
+        <div class="panel-heading">
+          <h1 class="panel-title text-center">Matériel</h1>
+        </div>
+
+        <div class="panel-body">
+          <ul>
+            <li>Évier</li>
+            <li>Briquet</li>
+          </ul>
+        </div>
+
+      </div>
+
+      <div class="panel panel-warning">
+
+        <div class="panel-heading">
+          <h1 class="panel-title text-center">Temps</h1>
+        </div>
+
+        <div class="panel-body">
+          <ul>
+            <li>Préparation : 1 min</li>
+            <li>Cuisson : 30 s</li>
+          </ul>
+        </div>
+
+      </div>
+
+      <div class="panel panel-default">
+        <div class="panel-body">
+        <blockquote>
+          <p>Dans ce plat la saucisse fait fourchette pour éviter de salir de la vaisselle.</p>
+        </blockquote>
+        <img src="images/recettes/anticuisine.fr_saucissespuree_dessin.jpg" class="img-responsive" />
+        </div>
+      </div>
+
     </div>
 
     <div class="col-md-9">
@@ -43,7 +131,7 @@ pied: read_file('pied.inc')
         </div>
 
         <div class="panel-body">
-          <h2>Faire couler l'eau chaude</h2>
+          <h3 class="text-center">Faire couler l'eau chaude</h3>
           <img src="images/recettes/anticuisine.fr_saucissespuree2.jpg" class="img-thumbnail img-responsive center-block" />
         </div>
 
@@ -56,7 +144,7 @@ pied: read_file('pied.inc')
         </div>
 
         <div class="panel-body">
-          <h2>Verser le sachet de purée</h2>
+          <h3 class="text-center">Verser le sachet de purée</h3>
           <img src="images/recettes/anticuisine.fr_saucissespuree3.jpg" class="img-thumbnail img-responsive center-block" />
         </div>
 
@@ -69,7 +157,7 @@ pied: read_file('pied.inc')
         </div>
 
         <div class="panel-body">
-          <h2>Brûler la saucisse au briquet</h2>
+          <h3 class="text-center">Brûler la saucisse au briquet</h3>
           <img src="images/recettes/anticuisine.fr_saucissespuree4.jpg" class="img-thumbnail img-responsive center-block" />
         </div>
 
