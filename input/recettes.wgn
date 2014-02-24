@@ -1,0 +1,55 @@
+title: Anticuisine - les recettes
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+----
+
+<!-- tmpl_var name="menu"-->
+
+<div class="top">&nbsp;</div>
+
+<div class="container">
+
+  <div class="well">
+      <div class="row">
+        <div class="col-md-4">
+          <img src="images/anticuisine.fr_profmite.jpg" class="img-thumbnail img-responsive center-block" />
+        </div>
+        <div class="col-md-8">
+          <h1 class="text-center">Les recettes</h1>
+          <p class="lead">Les lois pour une recette d'anticuisine sont&nbsp;:</p>
+          <ol>
+            <li>Pas de vaisselle</li>
+            <li>Pas cher</li>
+            <li>Pas dur</li>
+            <li>Pas long</li>
+            <li><strong>Pas bon</strong></li>
+          </ol>
+          <div class="alert alert-warning"><p>Ces recettes ont été élaborées par des professionnels de l'anticuisine. Ne les refaites pas à la maison. Ou attendez la visite de vos beaux-parents.</p></div>
+        </div>
+      </div>
+  </div>
+
+  <div class="panel panel-info">
+
+    <div class="panel-heading">
+      <h1 class="panel-title text-center">Liste des recettes</h1>
+    </div>
+
+    <div class="panel-body">
+      <div class="row">
+        <div class="col-md-4">
+          <a href="recette-saucisses-puree.html">
+          <img src="images/recettes/anticuisine.fr_saucissespuree1.jpg" class="img-thumbnail img-responsive center-block" />
+          <p class="lead text-center">Saucisses et purée</p>
+          </a>
+        </div>
+        <div class="col-md-4">
+        </div>
+        <div class="col-md-4">
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</div>
