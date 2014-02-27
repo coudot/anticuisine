@@ -44,6 +44,10 @@ pied: read_file('pied.inc')
           </a>
         </div>
         <div class="col-md-4">
+          <a href="recette-pates-al-bainte.html">
+          <img src="images/recettes/anticuisine.fr_patesalbainte1.jpg" class="img-thumbnail img-responsive center-block" />
+          <p class="lead text-center">Pâtes al bainte</p>
+          </a>
         </div>
         <div class="col-md-4">
         </div>
