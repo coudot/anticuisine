@@ -21,12 +21,12 @@ pied: read_file('pied.inc')
              <p class="lead">Difficulté</p>
            </div>
            <div class="col-md-6">
-             <p class="lead text-warning">
-               <span class="glyphicon glyphicon-star"></span> 
-               <span class="glyphicon glyphicon-star-empty"></span> 
-               <span class="glyphicon glyphicon-star-empty"></span> 
-               <span class="glyphicon glyphicon-star-empty"></span> 
-               <span class="glyphicon glyphicon-star-empty"></span> 
+             <p class="lead">
+               <span class="glyphicon glyphicon-star text-warning"></span> 
+               <span class="glyphicon glyphicon-star-empty text-warning"></span> 
+               <span class="glyphicon glyphicon-star-empty text-warning"></span> 
+               <span class="glyphicon glyphicon-star-empty text-warning"></span> 
+               <span class="glyphicon glyphicon-star-empty text-warning"></span> 
              </p>
            </div>
          </div>
@@ -35,26 +35,24 @@ pied: read_file('pied.inc')
              <p class="lead">Goût</p>
            </div>
            <div class="col-md-6">
-             <p class="lead text-danger">
-               <span class="glyphicon glyphicon-heart"></span> 
-               <span class="glyphicon glyphicon-heart"></span> 
-               <span class="glyphicon glyphicon-heart"></span> 
-               <span class="glyphicon glyphicon-heart-empty"></span> 
-               <span class="glyphicon glyphicon-heart-empty"></span> 
+             <p class="lead">
+               <span class="glyphicon glyphicon-thumbs-up text-primary"></span> 
+               <span class="glyphicon glyphicon-thumbs-up text-primary"></span> 
+               <span class="glyphicon glyphicon-thumbs-up text-primary"></span> 
              </p>
            </div>
          </div>
          <div class="row">
            <div class="col-md-6">
-             <p class="lead">Toxicité</p>
+             <p class="lead">Vies restantes</p>
            </div>
            <div class="col-md-6">
-             <p class="lead text-danger">
-               <span class="glyphicon glyphicon-remove-sign"></span> 
-               <span class="glyphicon glyphicon-ok-sign text-success"></span> 
-               <span class="glyphicon glyphicon-ok-sign text-success"></span> 
-               <span class="glyphicon glyphicon-ok-sign text-success"></span> 
-               <span class="glyphicon glyphicon-ok-sign text-success"></span> 
+             <p class="lead">
+               <span class="glyphicon glyphicon-heart text-danger"></span> 
+               <span class="glyphicon glyphicon-heart text-danger"></span> 
+               <span class="glyphicon glyphicon-heart text-danger"></span> 
+               <span class="glyphicon glyphicon-heart-empty text-danger"></span> 
+               <span class="glyphicon glyphicon-heart-empty text-danger"></span> 
              </p>
            </div>
          </div>
