@@ -19,6 +19,7 @@
                 <li><a href="emission.html">L'émission</a></li>
                 <li><a href="#">Les précurseurs</a></li>
                 <li><a href="equipe.html">L'équipe</a></li>
+                <li><a href="propagande.html">La propagande</a></li>
               </ul>
             </div>
           </div>
