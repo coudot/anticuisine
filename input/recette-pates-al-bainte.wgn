@@ -100,7 +100,7 @@ pied: read_file('pied.inc')
         <div class="panel-body">
           <ul>
             <li>Préparation : 30 s</li>
-            <li>Cuisson : 10 min</li>
+            <li>Cuisson : 40 min</li>
           </ul>
         </div>
 
