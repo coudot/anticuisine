@@ -159,7 +159,9 @@ pied: read_file('pied.inc')
   </div>
 
   <div class="panel-body">
-<p>Conseils, remarques, photographies, cuisines. Tout cela m'a aidé. Alors merci à :</p>
+    <p>Conseils, remarques, photographies, cuisines. Tout cela m'a aidé. Alors merci à :</p>
+    <div class="row">
+      <div class="col-md-6">
 <ul>
 <li>Edouard Paris</li>
 <li>Caroline Jacquet</li>
@@ -181,7 +183,11 @@ pied: read_file('pied.inc')
 <li>Hervé</li>
 <li>Clément Bataillon</li>
 </ul>
-
+      </div>
+      <div class="col-md-6">
+        <div class="well"><strong>Mathieu Moreau</strong> a tout particulièrement contribué à enrichir le livre, par ses idées, ses réalisations de recettes, son enthousiasme, sans oublier sa folie furieuse.</li>
+      </div>
+    </div>
   </div>
   </div>
 
