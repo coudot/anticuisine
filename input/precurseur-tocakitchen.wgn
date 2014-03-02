@@ -1,0 +1,12 @@
+title: Toca Kitchen Monsters
+lien: precurseur-tocakitchen.html
+category: Jeux
+image: http://media.tocaboca.com/2012/03/webb_pic_monsters.jpg 
+credit: <a href="http://tocaboca.com/games/ ">Toca Kitchen Monsters</a>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+
+<p>Un jeu sur tablette tactile. Ou comment apprendre à cuisiner de la nourriture pour des monstres dans une cuisine immonde. Mes enfants adorent et deviendront sans doute anticuisinier plus tard. </p>
+
