@@ -1,0 +1,13 @@
+title: Breivik
+lien: precurseur-breivik.html
+category: Actualités
+image: http://www.leparisien.fr/images/2014/02/14/3591077_9c9e0a699c403a64256420ce479cad5382f58588_640x280.jpg
+credit: <a href="http://www.leparisien.fr">Le Parisien</a>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc'
+layout: precurseur.layout
+----
+
+<p>La grève de la faim est un concept affilié anticuisine surtout quand la cause en est absolument ridicule.</p>
+<p><a href="http://www.leparisien.fr/international/le-tueur-norvegien-breivik-menace-d-une-greve-de-la-faim-pour-une-ps3-14-02-2014-3591371.php">Lire l'article en détail en suivant ce lien</a></p>
+
