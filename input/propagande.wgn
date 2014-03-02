@@ -12,7 +12,7 @@ pied: read_file('pied.inc')
   <div class="well">
       <div class="row">
         <div class="col-md-6">
-          <iframe width="420" height="315" src="http://www.youtube.com/embed/xpTBaRf0938" frameborder="0" allowfullscreen></iframe>
+          <iframe width="420" height="315" class="center-block" src="http://www.youtube.com/embed/xpTBaRf0938" frameborder="0" allowfullscreen></iframe>
         </div>
         <div class="col-md-6">
           <h1 class="text-center">La propagande</h1>
@@ -30,17 +30,30 @@ pied: read_file('pied.inc')
     <div class="panel-body">
       <div class="row">
         <div class="col-md-6">
-          <iframe width="420" height="315" src="http://www.youtube.com/embed/Xq1dJj1Sbj0" frameborder="0" allowfullscreen></iframe>
+          <iframe width="420" height="315" class="center-block" src="http://www.youtube.com/embed/Xq1dJj1Sbj0" frameborder="0" allowfullscreen></iframe>
         </div>
         <div class="col-md-6">
-          <iframe width="420" height="315" src="http://www.youtube.com/embed/NqWvlODPdOg" frameborder="0" allowfullscreen></iframe>
+          <iframe width="420" height="315" class="center-block" src="http://www.youtube.com/embed/NqWvlODPdOg" frameborder="0" allowfullscreen></iframe>
         </div>
       </div>
       <div class="row">
         <div class="col-md-6">
-          <iframe width="420" height="315" src="http://www.youtube.com/embed/TgHx_Kd-7KA" frameborder="0" allowfullscreen></iframe>
+          <iframe width="420" height="315" class="center-block" src="http://www.youtube.com/embed/TgHx_Kd-7KA" frameborder="0" allowfullscreen></iframe>
         </div>
         <div class="col-md-6">
+          <iframe width="420" height="315" class="center-block" src="http://www.youtube.com/embed/xpTBaRf0938" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+      <hr />
+      <div class="row">
+        <div class="col-md-4">
+        </div>
+        <div class="col-md-4 text-center">
+          <p><a href="https://www.youtube.com/channel/UC3H_KE8s1SsfwuuKOZQgI7Q" class="btn btn-danger text-center">Abonnez-vous à notre chaîne Youtube</a></p>
+          <script src="https://apis.google.com/js/platform.js"></script>
+          <div class="g-ytsubscribe" data-channelid="UC3H_KE8s1SsfwuuKOZQgI7Q" data-layout="full" data-count="default"></div>
+        </div>
+        <div class="col-md-4">
         </div>
       </div>
     </div>
@@ -53,7 +66,8 @@ pied: read_file('pied.inc')
         <div class="panel-heading">
           <h1 class="panel-title text-center">Twitter</h1>
         </div>
-        <div class="panel-body">
+        <div class="panel-body text-center">
+          <p class="center-block"><a href="http://www.twitter.com/anticuisine" class="btn btn-info">Abonnez-vous à notre compte Twitter</a></p>
           <a class="twitter-timeline"  href="https://twitter.com/anticuisine"  data-widget-id="439514161848913920">Tweets de @anticuisine</a>
           <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
         </div>
@@ -73,7 +87,16 @@ pied: read_file('pied.inc')
   js.src = "//connect.facebook.net/fr_FR/all.js#xfbml=1&appId=708367752517783";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-<div class="fb-like" data-href="http://www.anticuisine.fr" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>
+          <div class="row">
+            <div class="col-md-4 text-center">
+              <p class="center-block"><a href="https://www.facebook.com/pages/Anticuisine-cuisine-humour-recette-rire-blague/651573911567570?fref=ts" class="btn btn-primary">Visitez notre page</a></p>
+              <p class="center-block"><a href="https://www.facebook.com/groups/anticuisine/10152214453264277/?notif_t=group_activity" class="btn btn-primary">Rejoignez notre groupe</a></p>
+              <div class="fb-like" data-href="http://www.anticuisine.fr" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>
+            </div>
+            <div class="col-md-8 text-center">
+              <div class="fb-like-box" data-href="https://www.facebook.com/pages/Anticuisine-cuisine-humour-recette-rire-blague/651573911567570?fref=ts" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
