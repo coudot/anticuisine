@@ -167,7 +167,7 @@ pied: read_file('pied.inc')
 <li>Caroline Jacquet</li>
 <li>Yohan Pannet</li>
 <li>Clément Zanon</li>
-<li>Mathieu Moreau</li>
+<li>Mathieu Moreaud</li>
 <li>Claire Meunier</li>
 <li>Antoine Cailliez</li>
 <li>Ludivine Cailliez</li>
@@ -185,7 +185,7 @@ pied: read_file('pied.inc')
 </ul>
       </div>
       <div class="col-md-6">
-        <div class="well"><strong>Mathieu Moreau</strong> a tout particulièrement contribué à enrichir le livre, par ses idées, ses réalisations de recettes, son enthousiasme, sans oublier sa folie furieuse.</li></div>
+        <div class="well"><strong>Mathieu Moreaud</strong> a tout particulièrement contribué à enrichir le livre, par ses idées, ses réalisations de recettes, son enthousiasme, sans oublier sa folie furieuse.</li></div>
       </div>
     </div>
   </div>
