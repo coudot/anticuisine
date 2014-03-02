@@ -4,7 +4,7 @@ category: Actualités
 image: http://www.leparisien.fr/images/2014/02/14/3591077_9c9e0a699c403a64256420ce479cad5382f58588_640x280.jpg
 credit: <a href="http://www.leparisien.fr">Le Parisien</a>
 menu: read_file('menu.inc')
-pied: read_file('pied.inc'
+pied: read_file('pied.inc')
 layout: precurseur.layout
 ----
 
