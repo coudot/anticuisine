@@ -53,7 +53,7 @@ pied: read_file('pied.inc')
             <div class="carousel-caption">
               <h1>Les précurseurs</h1>
               <p>Artistes, films, livres qui ont inspiré l'anticuisine</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Les précurseurs</a></p>
+              <p><a class="btn btn-lg btn-primary" href="precurseurs.html" role="button">Les précurseurs</a></p>
             </div>
           </div>
         </div>

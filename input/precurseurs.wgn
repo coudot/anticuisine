@@ -1,0 +1,29 @@
+title: Anticuisine - Les précurseurs
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+precurseurs: file_glob('precurseur-*.wgn')
+----
+
+<!-- tmpl_var name="menu"-->
+
+<div class="top">&nbsp;</div>
+
+<div class="container">
+
+<div class="well">
+  <h1>Les précurseurs</h1>
+  <p>D'orgines diverses, ils sont tous des précurseurs de l'anticuisine.</p>
+  <p>Encore une preuve que l'anticuisine a toujours existé et existera toujours.</p>
+
+  <ul>
+
+  <!-- tmpl_if name='precurseurs' -->
+    <!-- tmpl_loop name='precurseurs' -->
+    <li><a href="<!-- tmpl_var name="lien"-->"><!-- tmpl_var name="category"-->&nbsp: <!-- tmpl_var name="title"--></a></li>
+  <!-- /tmpl_loop -->
+  <!-- /tmpl_if -->
+  </ul>
+
+</div>
+
+</div>
