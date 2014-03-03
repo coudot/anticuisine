@@ -1,7 +1,7 @@
 title: Le pudding à l'arsenic
 lien: precurseur-pudding.html
 category: Musiques
-image: http://www.youtube.com/watch?v=shi9C368X0s
+youtube: shi9C368X0s
 credit: <p>Extrait du film d'asterix et cléopatre, coréalisé par René Goscinny et Albert Uderzo, musique de Gérard Calvi </p>
 menu: read_file('menu.inc')
 pied: read_file('pied.inc')
