@@ -49,12 +49,18 @@
 
         <div class="row">
 
-          <div class="col-md-4 text-center">
+          <div class="col-md-6 text-center">
+            <!-- tmpl_if name='image'-->
             <img src="<!-- tmpl_var name='image' -->" class="img-thumbnail img-responsive" />
+            <!-- /tmpl_if -->
+            <!-- tmpl_if name='youtube'-->
+            <iframe width="420" height="315" class="center-block" src="http://www.youtube.com/embed/<!-- tmpl_var name='youtube'-->" frameborder="0" allowfullscreen></iframe>
+            <!-- /tmpl_if -->
           </div>
-          <div class="col-md-8">
+          <div class="col-md-6">
             <h2 class="text-center"><!-- tmpl_var name='title' escape='html' --></h2>
             <!-- tmpl_var name='content' -->
+            <p>Crédits: <!-- tmpl_var name='credit' --></p>
           </div>
 
         </div>
