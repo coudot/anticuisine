@@ -2,7 +2,7 @@ title: Vanitas de Jana Sterbak
 lien: precurseur-vanitas.html
 category: Art
 image: http://culturevisuelle.org/regard/files/2011/05/sterbak3-vanitas.jpg 
-credit: <a href="www.janasterbak.com ">Jana Sterbak</a>
+credit: <a href="http://www.janasterbak.com">Jana Sterbak</a>
 menu: read_file('menu.inc')
 pied: read_file('pied.inc')
 layout: precurseur.layout
