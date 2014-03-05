@@ -12,7 +12,7 @@ pied: read_file('pied.inc')
   <div class="well">
       <div class="row">
         <div class="col-md-6">
-          <iframe width="420" height="315" class="center-block" src="http://www.youtube.com/embed/xpTBaRf0938" frameborder="0" allowfullscreen></iframe>
+          <img src="images/anticuisine.fr_mosaique.jpg" class="img-thumbnail img-responsive" />
         </div>
         <div class="col-md-6">
           <h1 class="text-center">La propagande</h1>
@@ -30,18 +30,18 @@ pied: read_file('pied.inc')
     <div class="panel-body">
       <div class="row">
         <div class="col-md-6">
-          <iframe width="420" height="315" class="center-block" src="http://www.youtube.com/embed/Xq1dJj1Sbj0" frameborder="0" allowfullscreen></iframe>
+          <iframe width="420" height="315" class="center-block" src="http://www.youtube.com/embed/WVV_T9X7QHg" frameborder="0" allowfullscreen></iframe>
         </div>
         <div class="col-md-6">
-          <iframe width="420" height="315" class="center-block" src="http://www.youtube.com/embed/NqWvlODPdOg" frameborder="0" allowfullscreen></iframe>
+          <iframe width="420" height="315" class="center-block" src="http://www.youtube.com/embed/4-ZkQ8-FF94" frameborder="0" allowfullscreen></iframe>
         </div>
       </div>
       <div class="row">
         <div class="col-md-6">
-          <iframe width="420" height="315" class="center-block" src="http://www.youtube.com/embed/TgHx_Kd-7KA" frameborder="0" allowfullscreen></iframe>
+          <iframe width="420" height="315" class="center-block" src="http://www.youtube.com/embed/uYJzIHqAqvI" frameborder="0" allowfullscreen></iframe>
         </div>
         <div class="col-md-6">
-          <iframe width="420" height="315" class="center-block" src="http://www.youtube.com/embed/xpTBaRf0938" frameborder="0" allowfullscreen></iframe>
+          <iframe width="420" height="315" class="center-block" src="http://www.youtube.com/embed/qmAXXRegCBw" frameborder="0" allowfullscreen></iframe>
         </div>
       </div>
       <hr />
