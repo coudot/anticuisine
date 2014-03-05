@@ -11,19 +11,27 @@ precurseurs: file_glob('precurseur-*.wgn')
 <div class="container">
 
 <div class="well">
-  <h1>Les précurseurs</h1>
-  <p>D'orgines diverses, ils sont tous des précurseurs de l'anticuisine.</p>
-  <p>Encore une preuve que l'anticuisine a toujours existé et existera toujours.</p>
-
-  <ul>
-
-  <!-- tmpl_if name='precurseurs' -->
-    <!-- tmpl_loop name='precurseurs' -->
-    <li><a href="<!-- tmpl_var name="lien"-->"><!-- tmpl_var name="category"-->&nbsp: <!-- tmpl_var name="title"--></a></li>
-  <!-- /tmpl_loop -->
-  <!-- /tmpl_if -->
-  </ul>
-
+  <h1 class="text-center">Les précurseurs</h1>
+  <div class="alert alert-info">
+    <p>D'orgines diverses, ils sont tous des précurseurs de l'anticuisine. Encore une preuve que l'anticuisine a toujours existé et existera toujours.</p>
+  </div>
+  <div class="row">
+    <div class="col-md-6">
+      <ul class="list-group">
+      <!-- tmpl_if name='precurseurs' -->
+        <!-- tmpl_loop name='precurseurs' -->
+        <li class="list-group-item">
+          <span class="badge"><!-- tmpl_var name="category"--></span>
+          <a href="<!-- tmpl_var name="lien"-->"><!-- tmpl_var name="title"--></a>
+        </li>
+        <!-- /tmpl_loop -->
+      <!-- /tmpl_if -->
+      </ul>
+    </div>
+    <div class="col-md-6">
+      <img src="images/anticuisine.fr_dieu.jpg" class="img-thumbnail img-responsive" />
+    </div>
+  </div>
 </div>
 
 </div>
