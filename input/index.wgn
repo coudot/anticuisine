@@ -29,7 +29,7 @@ pied: read_file('pied.inc')
           </div>
         </div>
         <div class="item">
-          <img src="images/anticuisine.fr_recette.jpg" />
+          <img src="images/anticuisine.fr_trottoir.jpg" />
           <div class="container">
             <div class="carousel-caption">
               <h1>Les recettes</h1>
@@ -39,7 +39,7 @@ pied: read_file('pied.inc')
           </div>
         </div>
         <div class="item">
-          <img src="images/anticuisine.fr_poisson.jpg" />
+          <img src="images/anticuisine.fr_emission_tournage2.jpg" />
           <div class="container">
             <div class="carousel-caption">
               <h1>L'émission</h1>
@@ -49,7 +49,7 @@ pied: read_file('pied.inc')
           </div>
         </div>
         <div class="item">
-          <img src="images/anticuisine.fr_patate.jpg" />
+          <img src="images/anticuisine.fr_dieu.jpg" />
           <div class="container">
             <div class="carousel-caption">
               <h1>Les précurseurs</h1>
