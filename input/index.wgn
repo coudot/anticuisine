@@ -16,6 +16,7 @@ pied: read_file('pied.inc')
         <li data-target="#myCarousel" data-slide-to="3"></li>
         <li data-target="#myCarousel" data-slide-to="4"></li>
         <li data-target="#myCarousel" data-slide-to="5"></li>
+        <li data-target="#myCarousel" data-slide-to="6"></li>
       </ol>
       <div class="carousel-inner">
         <div class="item active">
@@ -75,6 +76,16 @@ pied: read_file('pied.inc')
               <h1>La propagande</h1>
               <p>Vous aimez l'anticuisine ? Vous pouvez nous aider à faire avancer notre cause en partageant ces contenus.</p>
               <p><a class="btn btn-lg btn-primary" href="propagande.html" role="button">La propagande</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img src="images/anticuisine.fr_mouches.jpg" />
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Les goodies</h1>
+              <p>Soyez à la mode et portez fièrement les couleurs de l'anticuisine</p>
+              <p><a class="btn btn-lg btn-primary" href="goodies.html" role="button">Les goodies</a></p>
             </div>
           </div>
         </div>
