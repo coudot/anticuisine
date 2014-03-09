@@ -56,6 +56,9 @@
             <!-- tmpl_if name='youtube'-->
             <iframe width="420" height="315" class="center-block" src="http://www.youtube.com/embed/<!-- tmpl_var name='youtube'-->" frameborder="0" allowfullscreen></iframe>
             <!-- /tmpl_if -->
+            <!-- tmpl_if name='dailymotion'-->
+            <iframe frameborder="0" width="480" height="270" src="http://www.dailymotion.com/embed/video/<!-- tmpl_var name='dailymotion'-->" frameborder="0" allowfullscreen></iframe>
+            <!-- /tmpl_if -->
           </div>
           <div class="col-md-6">
             <h2 class="text-center"><!-- tmpl_var name='title' escape='html' --></h2>
