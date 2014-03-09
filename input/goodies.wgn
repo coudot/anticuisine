@@ -12,7 +12,7 @@ pied: read_file('pied.inc')
 <div class="panel panel-info">
 
   <div class="panel-heading">
-    <h1 class="panel-title text-center">La boutique</h1>
+    <h1 class="panel-title text-center">Se procurer des goodies</h1>
   </div>
 
   <div class="panel-body">
