@@ -50,6 +50,10 @@ pied: read_file('pied.inc')
           </a>
         </div>
         <div class="col-md-4">
+          <a href="recette-afterhuit.html">
+          <img src="images/recettes/anticuisine.fr_afterhuit1.jpg" class="img-thumbnail img-responsive center-block" />
+          <p class="lead text-center">Afterhuit</p>
+          </a>
         </div>
       </div>
     </div>
