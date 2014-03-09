@@ -29,6 +29,8 @@ pied: read_file('pied.inc')
       </div>
   </div>
 
+  <div class="alert alert-success">Nous avons crée 48 recettes pour les livres. En voilà 10 en exclusivité.</div>
+
   <div class="panel panel-info">
 
     <div class="panel-heading">
@@ -56,6 +58,19 @@ pied: read_file('pied.inc')
           </a>
         </div>
       </div>
+      <div class="row">
+        <div class="col-md-4">
+          <a href="recette-donem.html">
+          <img src="images/recettes/anticuisine.fr_donem1.jpg" class="img-thumbnail img-responsive center-block" />
+          <p class="lead text-center">Donem</p>
+          </a>
+        </div>
+        <div class="col-md-4">
+        </div>
+        <div class="col-md-4">
+        </div>
+      </div>
+
     </div>
 
   </div>
