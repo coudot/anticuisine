@@ -66,6 +66,10 @@ pied: read_file('pied.inc')
           </a>
         </div>
         <div class="col-md-4">
+          <a href="recette-gelules-porc.html">
+          <img src="images/recettes/anticuisine.fr_gelules_porc1.jpg" class="img-thumbnail img-responsive center-block" />
+          <p class="lead text-center">Gélules de porc</p>
+          </a>
         </div>
         <div class="col-md-4">
         </div>
