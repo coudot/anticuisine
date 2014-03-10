@@ -59,6 +59,9 @@
             <!-- tmpl_if name='dailymotion'-->
             <iframe frameborder="0" width="480" height="270" src="http://www.dailymotion.com/embed/video/<!-- tmpl_var name='dailymotion'-->" frameborder="0" allowfullscreen></iframe>
             <!-- /tmpl_if -->
+            <!-- tmpl_if name='html'-->
+            <!-- tmpl_var name='html'-->
+            <!-- /tmpl_if -->
           </div>
           <div class="col-md-6">
             <h2 class="text-center"><!-- tmpl_var name='title' escape='html' --></h2>
