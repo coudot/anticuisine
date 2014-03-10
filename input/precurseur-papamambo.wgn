@@ -2,7 +2,7 @@ title: Papa Mambo
 lien: precurseur-papamambo.html
 category: Musique
 youtube: OjmjxSfJeAg
-credit: <p>Papa Mambo, </p><a href="htt://www.alainsouchon.net/‎">par Alain Souchon</a>
+credit: <p>Papa Mambo, <a href="http://www.alainsouchon.net/">par Alain Souchon</a></p>
 menu: read_file('menu.inc')
 pied: read_file('pied.inc')
 layout: precurseur.layout

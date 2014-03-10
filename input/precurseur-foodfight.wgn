@@ -2,7 +2,7 @@ title: Food Fight
 lien: precurseur-foodfight.html
 category: Histoire
 youtube: e-yldqNkGfo
-credit:  <a href="http://www.touristpictures.com/foodfight/Foodfight"> Food Dight est un court–métrage de Stefan Nadelman, Tourist Pictures</a>
+credit: <a href="http://www.touristpictures.com/foodfight/"> Food Dight est un court–métrage de Stefan Nadelman, Tourist Pictures</a>
 menu: read_file('menu.inc')
 pied: read_file('pied.inc')
 layout: precurseur.layout

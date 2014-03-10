@@ -2,7 +2,7 @@ title: Mange mon geek
 lien: precurseur-mangemongeek.html
 category: Emissions
 youtube: w6HF-OLNHlc
-credit: <p>Mange mon Geek, par Olivesimon et M. Poulpe, émission sur NoLife</p>
+credit: <p>Mange mon Geek, par Olivesimon et M. Poulpe, émission sur <a href="http://www.nolife-tv.com">NoLife</a></p>
 menu: read_file('menu.inc')
 pied: read_file('pied.inc')
 layout: precurseur.layout
