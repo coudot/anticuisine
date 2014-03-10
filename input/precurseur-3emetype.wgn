@@ -1,7 +1,7 @@
 title: La purée dans Rencontre du 3ème type
 lien: precurseur-3emetype.html
 category: Films
-image: http://www.simpsonspark.com/images/references/films/rencontres/homerleclown3_film.jpg
+html: <iframe width="480" height="280" src="http://www.vodkaster.com/embed/757768" frameborder="0" allowfullscreen></iframe>
 credit: <p>Rencontre du troisième type, par Steven Spielberg</p>
 menu: read_file('menu.inc')
 pied: read_file('pied.inc')
