@@ -1,0 +1,169 @@
+title: Anticuisine - les recettes - Sucette pelle
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+----
+
+<!-- tmpl_var name="menu"-->
+
+<div class="top">&nbsp;</div>
+
+<div class="container">
+
+   <div class="well">
+     <div class="row">
+       <div class="col-md-6">
+         <img src="images/recettes/anticuisine.fr_sucette_pelle1.jpg" class="img-thumbnail img-responsive" />
+       </div>
+       <div class="col-md-6">
+         <h1 class="text-center">Sucette pelle</h1>
+         <div class="row">
+           <div class="col-md-6">
+             <p class="lead">Difficulté</p>
+           </div>
+           <div class="col-md-6">
+             <p class="lead">
+               <span class="glyphicon glyphicon-star text-warning"></span> 
+               <span class="glyphicon glyphicon-star text-warning"></span> 
+               <span class="glyphicon glyphicon-star text-warning"></span> 
+               <span class="glyphicon glyphicon-star-empty text-warning"></span> 
+               <span class="glyphicon glyphicon-star-empty text-warning"></span> 
+             </p>
+           </div>
+         </div>
+         <div class="row">
+           <div class="col-md-6">
+             <p class="lead">Goût</p>
+           </div>
+           <div class="col-md-6">
+             <p class="lead">
+               <span class="glyphicon glyphicon-thumbs-up text-primary"></span> 
+               <span class="glyphicon glyphicon-thumbs-up text-primary"></span> 
+               <span class="glyphicon glyphicon-thumbs-up text-primary"></span> 
+               <span class="glyphicon glyphicon-thumbs-up text-primary"></span> 
+             </p>
+           </div>
+         </div>
+         <div class="row">
+           <div class="col-md-6">
+             <p class="lead">Vies restantes</p>
+           </div>
+           <div class="col-md-6">
+             <p class="lead">
+               <span class="glyphicon glyphicon-heart text-danger"></span> 
+               <span class="glyphicon glyphicon-heart text-danger"></span> 
+               <span class="glyphicon glyphicon-heart text-danger"></span> 
+               <span class="glyphicon glyphicon-heart text-danger"></span> 
+               <span class="glyphicon glyphicon-heart text-danger"></span> 
+             </p>
+           </div>
+         </div>
+       </div>
+     </div>
+   </div>
+
+  <div class="row">
+
+    <div class="col-md-3">
+
+      <div class="panel panel-success">
+
+        <div class="panel-heading">
+          <h1 class="panel-title text-center">Ingrédients</h1>
+        </div>
+
+        <div class="panel-body">
+          <ul>
+            <li>Sucettes</li>
+          </ul>
+        </div>
+
+      </div>
+
+      <div class="panel panel-danger">
+
+        <div class="panel-heading">
+          <h1 class="panel-title text-center">Matériel</h1>
+        </div>
+
+        <div class="panel-body">
+          <ul>
+            <li>Briquet</li>
+          </ul>
+        </div>
+
+      </div>
+
+      <div class="panel panel-warning">
+
+        <div class="panel-heading">
+          <h1 class="panel-title text-center">Temps</h1>
+        </div>
+
+        <div class="panel-body">
+          <ul>
+            <li>Préparation : 1 min</li>
+            <li>Cuisson : 10 s</li>
+          </ul>
+        </div>
+
+      </div>
+
+      <div class="panel panel-default">
+        <div class="panel-body">
+        <img src="images/recettes/anticuisine.fr_sucette_pelle_dessin.jpg" class="img-thumbnail img-responsive" />
+        </div>
+      </div>
+
+    </div>
+
+    <div class="col-md-9">
+
+        <div class="panel panel-info">
+
+        <div class="panel-heading">
+          <h1 class="panel-title text-center">Étape 1</h1>
+        </div>
+
+        <div class="panel-body">
+          <h3 class="text-center">Déballer deux sucettes</h3>
+          <img src="images/recettes/anticuisine.fr_sucette_pelle2.jpg" class="img-thumbnail img-responsive center-block" />
+        </div>
+
+        </div>
+
+        <div class="panel panel-info">
+
+        <div class="panel-heading">
+          <h1 class="panel-title text-center">Étape 2</h1>
+        </div>
+
+        <div class="panel-body">
+          <h3 class="text-center">Cuire par les boules</h3>
+          <img src="images/recettes/anticuisine.fr_sucette_pelle3.jpg" class="img-thumbnail img-responsive center-block" />
+          <h3 class="text-center">Ou par le bâton</h3>
+          <img src="images/recettes/anticuisine.fr_sucette_pelle4.jpg" class="img-thumbnail img-responsive center-block" />
+        </div>
+
+        </div>
+
+        <div class="panel panel-info">
+
+        <div class="panel-heading">
+          <h1 class="panel-title text-center">Étape 3</h1>
+        </div>
+
+        <div class="panel-body">
+          <h3 class="text-center">Les sucettes sont prêtes</h3>
+          <img src="images/recettes/anticuisine.fr_sucette_pelle5.jpg" class="img-thumbnail img-responsive center-block" />
+          <img src="images/recettes/anticuisine.fr_sucette_pelle6.jpg" class="img-thumbnail img-responsive center-block" />
+        </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
