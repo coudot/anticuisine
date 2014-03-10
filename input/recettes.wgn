@@ -98,6 +98,18 @@ pied: read_file('pied.inc')
           </a>
         </div>
       </div>
+      <div class="row">
+        <div class="col-md-4">
+        </div>
+        <div class="col-md-4">
+          <a href="recette-chevre-cendre.html">
+          <img src="images/recettes/anticuisine.fr_chevre_cendre1.jpg" class="img-thumbnail img-responsive center-block" />
+          <p class="lead text-center">Chèvre cendré</p>
+          </a>
+        </div>
+        <div class="col-md-4">
+        </div>
+      </div>
 
     </div>
 
