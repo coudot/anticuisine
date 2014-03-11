@@ -11,27 +11,252 @@ precurseurs: file_glob('precurseur-*.wgn')
 <div class="container">
 
 <div class="well">
-  <h1 class="text-center">Les précurseurs</h1>
-  <div class="alert alert-info">
-    <p>D'orgines diverses, ils sont tous des précurseurs de l'anticuisine. Encore une preuve que l'anticuisine a toujours existé et existera toujours.</p>
-  </div>
   <div class="row">
-    <div class="col-md-6">
-      <ul class="list-group">
-      <!-- tmpl_if name='precurseurs' -->
-        <!-- tmpl_loop name='precurseurs' -->
-        <li class="list-group-item">
-          <span class="badge"><!-- tmpl_var name="category"--></span>
-          <a href="<!-- tmpl_var name="lien"-->"><!-- tmpl_var name="title"--></a>
-        </li>
-        <!-- /tmpl_loop -->
-      <!-- /tmpl_if -->
-      </ul>
-    </div>
     <div class="col-md-6">
       <img src="images/anticuisine.fr_dieu.jpg" class="img-thumbnail img-responsive" />
     </div>
+    <div class="col-md-6">
+      <h1 class="text-center">Les précurseurs</h1>
+        <div class="alert alert-info">
+          <p>D'orgines diverses, ils sont tous des précurseurs de l'anticuisine. Encore une preuve que l'anticuisine a toujours existé et existera toujours.</p>
+        </div>
+    </div>
   </div>
+</div>
+
+<div class="row">
+  <div class="col-md-4">
+    <div class="panel panel-info">
+      <div class="panel-heading">
+        <h1 class="panel-title">Actualités</h1>
+      </div>
+      <div class="panel-body Actualités">
+        <ul class="list-group">
+        <!-- tmpl_if name='precurseurs' -->
+        <!-- tmpl_loop name='precurseurs' -->
+        <li class="list-group-item <!-- tmpl_var name="category"-->">
+          <a href="<!-- tmpl_var name="lien"-->"><!-- tmpl_var name="title"--></a>
+        </li>
+        <!-- /tmpl_loop -->
+        <!-- /tmpl_if -->
+        </ul>
+      </div>
+    </div>
+    <div class="panel panel-danger">
+      <div class="panel-heading">
+        <h1 class="panel-title">Blagues</h1>
+      </div>
+      <div class="panel-body Blagues">
+        <ul class="list-group">
+        <!-- tmpl_if name='precurseurs' -->
+        <!-- tmpl_loop name='precurseurs' -->
+        <li class="list-group-item <!-- tmpl_var name="category"-->">
+          <a href="<!-- tmpl_var name="lien"-->"><!-- tmpl_var name="title"--></a>
+        </li>
+        <!-- /tmpl_loop -->
+        <!-- /tmpl_if -->
+        </ul>
+      </div>
+    </div>
+    <div class="panel panel-warning">
+      <div class="panel-heading">
+        <h1 class="panel-title">Films</h1>
+      </div>
+      <div class="panel-body Films">
+        <ul class="list-group">
+        <!-- tmpl_if name='precurseurs' -->
+        <!-- tmpl_loop name='precurseurs' -->
+        <li class="list-group-item <!-- tmpl_var name="category"-->">
+          <a href="<!-- tmpl_var name="lien"-->"><!-- tmpl_var name="title"--></a>
+        </li>
+        <!-- /tmpl_loop -->
+        <!-- /tmpl_if -->
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="panel panel-success">
+      <div class="panel-heading">
+        <h1 class="panel-title">Anticuisiniers</h1>
+      </div>
+      <div class="panel-body Anticuisiniers">
+        <ul class="list-group">
+        <!-- tmpl_if name='precurseurs' -->
+        <!-- tmpl_loop name='precurseurs' -->
+        <li class="list-group-item <!-- tmpl_var name="category"-->">
+          <a href="<!-- tmpl_var name="lien"-->"><!-- tmpl_var name="title"--></a>
+        </li>
+        <!-- /tmpl_loop -->
+        <!-- /tmpl_if -->
+        </ul>
+      </div>
+    </div>
+    <div class="panel panel-info">
+      <div class="panel-heading">
+        <h1 class="panel-title">Emissions</h1>
+      </div>
+      <div class="panel-body Emissions">
+        <ul class="list-group">
+        <!-- tmpl_if name='precurseurs' -->
+        <!-- tmpl_loop name='precurseurs' -->
+        <li class="list-group-item <!-- tmpl_var name="category"-->">
+          <a href="<!-- tmpl_var name="lien"-->"><!-- tmpl_var name="title"--></a>
+        </li>
+        <!-- /tmpl_loop -->
+        <!-- /tmpl_if -->
+        </ul>
+      </div>
+    </div>
+    <div class="panel panel-danger">
+      <div class="panel-heading">
+        <h1 class="panel-title">Futur</h1>
+      </div>
+      <div class="panel-body Futur">
+        <ul class="list-group">
+        <!-- tmpl_if name='precurseurs' -->
+        <!-- tmpl_loop name='precurseurs' -->
+        <li class="list-group-item <!-- tmpl_var name="category"-->">
+          <a href="<!-- tmpl_var name="lien"-->"><!-- tmpl_var name="title"--></a>
+        </li>
+        <!-- /tmpl_loop -->
+        <!-- /tmpl_if -->
+        </ul>
+      </div>
+    </div>
+    <div class="panel panel-success">
+      <div class="panel-heading">
+        <h1 class="panel-title">Jeux</h1>
+      </div>
+      <div class="panel-body Jeux">
+        <ul class="list-group">
+        <!-- tmpl_if name='precurseurs' -->
+        <!-- tmpl_loop name='precurseurs' -->
+        <li class="list-group-item <!-- tmpl_var name="category"-->">
+          <a href="<!-- tmpl_var name="lien"-->"><!-- tmpl_var name="title"--></a>
+        </li>
+        <!-- /tmpl_loop -->
+        <!-- /tmpl_if -->
+        </ul>
+      </div>
+    </div>
+    <div class="panel panel-danger">
+      <div class="panel-heading">
+        <h1 class="panel-title">Monde</h1>
+      </div>
+      <div class="panel-body Monde">
+        <ul class="list-group">
+        <!-- tmpl_if name='precurseurs' -->
+        <!-- tmpl_loop name='precurseurs' -->
+        <li class="list-group-item <!-- tmpl_var name="category"-->">
+          <a href="<!-- tmpl_var name="lien"-->"><!-- tmpl_var name="title"--></a>
+        </li>
+        <!-- /tmpl_loop -->
+        <!-- /tmpl_if -->
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="panel panel-warning">
+      <div class="panel-heading">
+        <h1 class="panel-title">Art</h1>
+      </div>
+      <div class="panel-body Art">
+        <ul class="list-group">
+        <!-- tmpl_if name='precurseurs' -->
+        <!-- tmpl_loop name='precurseurs' -->
+        <li class="list-group-item <!-- tmpl_var name="category"-->">
+          <a href="<!-- tmpl_var name="lien"-->"><!-- tmpl_var name="title"--></a>
+        </li>
+        <!-- /tmpl_loop -->
+        <!-- /tmpl_if -->
+        </ul>
+      </div>
+    </div>
+    <div class="panel panel-success">
+      <div class="panel-heading">
+        <h1 class="panel-title">Ennemis</h1>
+      </div>
+      <div class="panel-body Ennemis">
+        <ul class="list-group">
+        <!-- tmpl_if name='precurseurs' -->
+        <!-- tmpl_loop name='precurseurs' -->
+        <li class="list-group-item <!-- tmpl_var name="category"-->">
+          <a href="<!-- tmpl_var name="lien"-->"><!-- tmpl_var name="title"--></a>
+        </li>
+        <!-- /tmpl_loop -->
+        <!-- /tmpl_if -->
+        </ul>
+      </div>
+    </div>
+    <div class="panel panel-info">
+      <div class="panel-heading">
+        <h1 class="panel-title">Histoire</h1>
+      </div>
+      <div class="panel-body Histoire">
+        <ul class="list-group">
+        <!-- tmpl_if name='precurseurs' -->
+        <!-- tmpl_loop name='precurseurs' -->
+        <li class="list-group-item <!-- tmpl_var name="category"-->">
+          <a href="<!-- tmpl_var name="lien"-->"><!-- tmpl_var name="title"--></a>
+        </li>
+        <!-- /tmpl_loop -->
+        <!-- /tmpl_if -->
+        </ul>
+      </div>
+    </div>
+    <div class="panel panel-warning">
+      <div class="panel-heading">
+        <h1 class="panel-title">Livres</h1>
+      </div>
+      <div class="panel-body Livres">
+        <ul class="list-group">
+        <!-- tmpl_if name='precurseurs' -->
+        <!-- tmpl_loop name='precurseurs' -->
+        <li class="list-group-item <!-- tmpl_var name="category"-->">
+          <a href="<!-- tmpl_var name="lien"-->"><!-- tmpl_var name="title"--></a>
+        </li>
+        <!-- /tmpl_loop -->
+        <!-- /tmpl_if -->
+        </ul>
+      </div>
+    </div>
+    <div class="panel panel-info">
+      <div class="panel-heading">
+        <h1 class="panel-title">Musique</h1>
+      </div>
+      <div class="panel-body Musique">
+        <ul class="list-group">
+        <!-- tmpl_if name='precurseurs' -->
+        <!-- tmpl_loop name='precurseurs' -->
+        <li class="list-group-item <!-- tmpl_var name="category"-->">
+          <a href="<!-- tmpl_var name="lien"-->"><!-- tmpl_var name="title"--></a>
+        </li>
+        <!-- /tmpl_loop -->
+        <!-- /tmpl_if -->
+        </ul>
+      </div>
+    </div>
+    <div class="panel panel-warning">
+      <div class="panel-heading">
+        <h1 class="panel-title">Web</h1>
+      </div>
+      <div class="panel-body Web">
+        <ul class="list-group">
+        <!-- tmpl_if name='precurseurs' -->
+        <!-- tmpl_loop name='precurseurs' -->
+        <li class="list-group-item <!-- tmpl_var name="category"-->">
+          <a href="<!-- tmpl_var name="lien"-->"><!-- tmpl_var name="title"--></a>
+        </li>
+        <!-- /tmpl_loop -->
+        <!-- /tmpl_if -->
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
 </div>
 
 </div>

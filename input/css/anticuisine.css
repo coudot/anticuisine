@@ -57,6 +57,119 @@ img.logo {
   padding-top: 80px;
 }
 
+/* Manage display of categories */
+div.Actualités li {
+  display: none;
+}
+
+div.Actualités li.Actualités {
+  display: block;
+}
+
+div.Anticuisiniers li {
+  display: none;
+}
+
+div.Anticuisiniers li.Anticuisiniers {
+  display: block;
+}
+
+div.Art li {
+  display: none;
+}
+
+div.Art li.Art {
+  display: block;
+}
+
+div.Blagues li {
+  display: none;
+}
+
+div.Blagues li.Blagues {
+  display: block;
+}
+
+div.Emissions li {
+  display: none;
+}
+
+div.Emissions li.Emissions {
+  display: block;
+}
+
+div.Ennemis li {
+  display: none;
+}
+
+div.Ennemis li.Ennemis {
+  display: block;
+}
+
+div.Films li {
+  display: none;
+}
+
+div.Films li.Films {
+  display: block;
+}
+
+div.Futur li {
+  display: none;
+}
+
+div.Futur li.Futur {
+  display: block;
+}
+
+div.Histoire li {
+  display: none;
+}
+
+div.Histoire li.Histoire {
+  display: block;
+}
+
+div.Jeux li {
+  display: none;
+}
+
+div.Jeux li.Jeux {
+  display: block;
+}
+
+div.Livres li {
+  display: none;
+}
+
+div.Livres li.Livres {
+  display: block;
+}
+
+div.Monde li {
+  display: none;
+}
+
+div.Monde li.Monde {
+  display: block;
+}
+
+div.Musique li {
+  display: none;
+}
+
+div.Musique li.Musique {
+  display: block;
+}
+
+div.Web li {
+  display: none;
+}
+
+div.Web li.Web {
+  display: block;
+}
+
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 
