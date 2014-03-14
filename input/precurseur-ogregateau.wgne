@@ -1,0 +1,11 @@
+﻿title: L'ogre le loup la petite fille et le gâteau
+lien: precurseur-ogregateau.html
+category: Livres
+image: http://ecx.images-amazon.com/images/I/51S1R323J7L._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU08_.jpg
+credit: <p>L'ogre le loup la petite fille et le gâteau, livre de Philippe Corentin <a href="http://www.amazon.fr/gp/product/2211031846/ref=as_li_qf_sp_asin_il?ie=UTF8&camp=1642&creative=6746&creativeASIN=2211031846&linkCode=as2&tag=lamaitresseai-21">Image prise sur Amazon</a></p> 
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+
+<p>Un thriller palpitant pour les enfants ! Pour son repas, l'ogre a capturé un loup, une petite fille et un gâteau. Il doit traverser une rivière avant de se sustenter mais il n'y a que deux places sur la barque. Comment faire ? Eh ouais c'est l'intrigue et tout se passerait facilement si les petites filles n'aimaient pas les gâteaux et si les loups n'aimaient pas les petites filles.</p>

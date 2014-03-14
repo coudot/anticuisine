@@ -1,0 +1,11 @@
+title: L'heure du crime
+lien: precurseur-crime.html
+category: Livres
+image: http://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Artischocketoskana.jpg/450px-Artischocketoskana.jpg
+credit: <p>Poème de Maurice Carême / Photographie de Richardfabi sur <a href="http://commons.wikimedia.org/wiki/File:Artischocketoskana.jpg> Wikipedia </a></p>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+<p>Eh ben ouais, je pousse le bouchon aussi loin que possible et je le dis : il y a même des poèmes d'anticuisine. Celui-ci est une cruauté sans nom à l'égard d'un légume. <a href="http://home.nordnet.fr/~sdelbecque/anima/careme3.htm">A lire ici.</a> </p>
+

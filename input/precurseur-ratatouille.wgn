@@ -1,0 +1,10 @@
+title: Le rat de Ratatouille
+lien: precurseur-ratatouille.html
+category: Ennemis
+youtube: 0IAI-iTKobY
+credit: <p>Ratatouille, par Brad Bird </p>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+<p>Un rat qui, tel un marionnetiste, prend le contrôle d'un humain pour lui faire cuisiner des plats étoilés, juste en tirant sur ses cheveux : c'est la hantise des anticuisiners.</p>

@@ -74,6 +74,22 @@ precurseurs: file_glob('precurseur-*.wgn')
         </ul>
       </div>
     </div>
+    <div class="panel panel-danger">
+      <div class="panel-heading">
+        <h1 class="panel-title">Monde</h1>
+      </div>
+      <div class="panel-body Monde">
+        <ul class="list-group">
+        <!-- tmpl_if name='precurseurs' -->
+        <!-- tmpl_loop name='precurseurs' -->
+        <li class="list-group-item <!-- tmpl_var name="category"-->">
+          <a href="<!-- tmpl_var name="lien"-->"><!-- tmpl_var name="title"--></a>
+        </li>
+        <!-- /tmpl_loop -->
+        <!-- /tmpl_if -->
+        </ul>
+      </div>
+    </div>
   </div>
   <div class="col-md-4">
     <div class="panel panel-success">
@@ -129,22 +145,6 @@ precurseurs: file_glob('precurseur-*.wgn')
         <h1 class="panel-title">Jeux</h1>
       </div>
       <div class="panel-body Jeux">
-        <ul class="list-group">
-        <!-- tmpl_if name='precurseurs' -->
-        <!-- tmpl_loop name='precurseurs' -->
-        <li class="list-group-item <!-- tmpl_var name="category"-->">
-          <a href="<!-- tmpl_var name="lien"-->"><!-- tmpl_var name="title"--></a>
-        </li>
-        <!-- /tmpl_loop -->
-        <!-- /tmpl_if -->
-        </ul>
-      </div>
-    </div>
-    <div class="panel panel-danger">
-      <div class="panel-heading">
-        <h1 class="panel-title">Monde</h1>
-      </div>
-      <div class="panel-body Monde">
         <ul class="list-group">
         <!-- tmpl_if name='precurseurs' -->
         <!-- tmpl_loop name='precurseurs' -->

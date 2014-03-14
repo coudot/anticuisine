@@ -1,0 +1,11 @@
+title: Patouch la mouche
+lien: precurseur-patouch.html
+category: Anticuisiniers
+image: http://images.eveiletjeux.net/Photo/IMG_FICHE_PRODUIT/Image/500x500/5/505698.jpg
+credit: <p>Patouch la Mouche, personnage des Drôles de petite bête, d'Antoon Krings</p>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+<p>Merci à Hervé Alix pour cette idée de précurseur ! Patouch la Mouche est un personnage de littérature jeunesse qui adore le caca, qui cuisine le caca et transmet ainsi son savoir aux jeunes générations. Existe aussi en dessins animés.</p>
+

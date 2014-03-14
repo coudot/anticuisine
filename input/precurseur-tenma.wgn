@@ -1,0 +1,11 @@
+title: Tenma
+lien: precurseur-tenma.html
+category: Anticuisiniers
+image: http://t2.gstatic.com/images?q=tbn:ANd9GcQneDCjn9g0uaeInQXHSUbPaBw5TXyI7462gR9za7DojU8K20W0P-lIx3llbQ
+credit: <p>School Rumble, de Jin Kobayashi</p>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+<p>Le Japon en tant que deuxième patrie de la cuisine mérite son Anticuisinière officielle. Tenma cuisine à longueur d'épisodes de ce triangle amoureux en manga des bentos tellement dégueulasses que ceux qui en mangent ressentent les pires tortures : paralysie, chute sans fin, électrocution, coma, etc.</p>
+

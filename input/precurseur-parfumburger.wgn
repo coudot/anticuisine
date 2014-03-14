@@ -1,0 +1,12 @@
+title: Le parfum au burger
+lien: precurseur-parfumburger.html
+category: Monde
+image: http://medias.lepost.fr/ill/2008/12/18/h-20-1361044-1229612240.jpg
+credit: <a href="http://archives-lepost.huffingtonpost.fr/article/2008/12/18/1360997_pour-noel-offrez-le-parfum-burger-king.html"> Article sur le Huffington Post </a>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+
+<p>Cool on pourra l'offrir au collègue qui pue la frite après la pause déjeuner. Malheureusement, il n'y a pas eu de nouvelle cuvée depuis 2008.</p>
+

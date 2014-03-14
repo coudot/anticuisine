@@ -1,0 +1,10 @@
+title: Soleil Vert
+lien: precurseur-soleilvert.html
+category: Films
+html: <iframe width="480" height="280" src="http://www.allocine.fr/video/player_gen_cmedia=19352261&cfilm=300.html" frameborder="0" allowfullscreen></iframe>
+credit: <p>Bande annonce de Soleil Vert, par Richard Fleischer</p>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+<p>Si vous n'avez jamais vu ce vieux film de SF, je me fais une joie de vous spoiler vot' gueule en vous disant qu'en fait le secret des aliments c'est que les êtres humains sont recyclés en pillule après leur mort afin de nourrir les vivants. L'anticuisine aime l'idée. Voilà qui me fait penser que si on arrêtait d'enterrer les gens dans des cimetières mais qu'on les enterrait dans des champs, on aurait sûrement besoin de moins d'engrais.</p>

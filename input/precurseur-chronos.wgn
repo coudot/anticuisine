@@ -1,0 +1,11 @@
+title: Chronos (ou Saturne)
+lien: precurseur-chronos.html
+category: Anticuisiniers
+image: http://upload.wikimedia.org/wikipedia/commons/d/dd/Rubens_saturn.jpg
+credit: <p>Saturne dévorant l'un de ses enfants, peinture de Peter Paul Rubens, Musée du Prado</p>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+<p> Parmis les dieux de l'Antiquité on a tout de même un anticuisinier célèbre : Chronos (chez les Grecs) ou Saturne (chez les Romains). Il bouffait ses fils afin d'échapper à la malédiction de son père. Pas con, même si ça a loupé. </p>
+

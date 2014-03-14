@@ -1,0 +1,10 @@
+title: Le pain de nain
+lien: precurseur-painnain.html
+category: Livres
+image: http://ifisdead.net/wp-content/uploads/2012/03/Disque-Monde-Ankh-Morpork-de-Martin-Wallace.jpg
+credit: <p>Le Disque-Monde, un univers créé par Terry Pratchett</p>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+<p>Le pain de nain est une invention culinaire de Terry Pratchett dans l'univers du Disque-Monde, et qui méritait une publication à part. Est-ce une parodie du pain des elfes dans Le Seigneur des anneaux ? En lisant, les livres du Disque-Monde, on découvre petit à petit, et non sans effroi, sa recette. On comprend mieux alors le sentiment de satiété qu'on éprouve rien qu'en le regardant. En comprend mieux aussi pourquoi le Vademecum nous le présente comme une arme de guerre également.</p>

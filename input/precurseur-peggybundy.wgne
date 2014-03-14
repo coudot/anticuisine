@@ -1,0 +1,11 @@
+title: Peggy Bundy
+lien: precurseur-peggybundy.html
+category: Anticuisiniers
+image: http://www.myburger.fr/images/site/banniere/banniere_16.gif
+credit: <p> Katey Sagal, dans la série Mariés, deux enfants , créée par Ron Leavitt et Michael Moye</p>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+
+<p>Une anticuisinière illustre ! Peggy Bundy, jouée par Katey Sagal, est un personnage de la série Mariés, deux enfants , créée par Ron Leavitt et Michael Moye. Elle est l'archétype de la bonne à rien. Sa famille en est réduit à se disputer les miettes de pain, les trucs tombés derrière les meubles, la nourriture du chien, le lait frelaté, parfois pire. Les cuillères de Tang sans eau sont les seuls petit déjeuner de son époux avant de partir vendre des chaussures à des grosses ménagères odieuses. Les enfants pleurent de joie lorsque leur père ramène un repas acheté. Le seul à être à peu près nourri dans cette famille est Buck, le chien.</p>

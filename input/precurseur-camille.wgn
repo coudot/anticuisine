@@ -1,0 +1,10 @@
+title: Camille
+lien: precurseur-camille.html
+category: Anticuisiniers
+image: http://welikeit.fr/wp-content/uploads/2013/12/Sans-titre-118-660x330.jpg
+credit: <p>Camille, incarné par Jérôme Niel, dans l'émission <a href="www.youtube.com/user/LesTutosVideo"> Les Tutos</a></p>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+<p>Alerte ! On a du gros gros gros gros gros taré. Mais putain qu'est-ce que c'est bon ! Il faut le voir réalisé quelques recettes. Même si c'est comestible - ce qui est toujours décevant pour nous - c'est réalisé avec passion. Tout est dans le geste nerveux, le mélange délicat des ingrédients, l'amour du produit (cf photo). Une rénovation anticulinaire jamais revu depuis SpeedCooking. Un exemple parmi d'autres : utiliser une batte de baseball sur un emporte pièce ! Pourquoi n'y ai-je jamais pensé avant ?</p>

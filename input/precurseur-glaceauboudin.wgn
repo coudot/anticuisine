@@ -1,0 +1,10 @@
+title: La glace au boudin
+lien: precurseur-glaceauboudin.html
+category: Emissions
+youtube: 33PrWknGMgU
+credit: <a href="http://www.deschiens-et-compagnie.com/"> Les Deschiens</a>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+<p>La recette de la glace au bousin des Deschiens. Pour faire bouffer de la charcuterie aux gosses.</p>

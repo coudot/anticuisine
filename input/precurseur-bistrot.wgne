@@ -1,0 +1,12 @@
+﻿title: Le bistrot
+lien: precurseur-bistrot.html
+category: Musique
+dailymotion: xlyafe
+credit: <p>Le bistrot, Georges Brassens</a>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+
+<p>"Dans un coin pourri du pauvre Paris, l'est un vieux bistrot tenu par un gros dégueulasse." Je me devais de parler de mon poète préféré et de le montrer en train de chanter, esquissant des sourires à chaque strophe. Et ! De rappeler qu'à Paris, il y a vraiment des bistrots immondes. On s'en est fait un il y a pas longtemps avec un pote du côté de la Gare du nord et sans déconner j'ai pris le tartare et je suis encore vivant. Sérieux !</p>
+

@@ -1,0 +1,12 @@
+﻿title: Hospitalis Restaurant
+lien: precurseur-hospitalis.html
+category: Monde
+image: http://lh3.ggpht.com/-ukkRWi29K9M/TxQ1YdnJMII/AAAAAAAAT0g/gfBcHKwVCuY/hospitalis1%25255B2%25255D.jpg?imgmax=800
+credit: <a href http://www.amusingplanet.com/2012/01/hospitalis-hospital-themed-restaurant.html> Article sur Amusing Planet</a>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+
+<p>Eh ouais, ça existe. C'est un restaurant à thème "hopital". Le décor, les couverts, la bouffe, les serveuses-infirmières : tout y est. Sauf moi. Je n'y suis jamais allé. Si ça se trouve il n'existe pas. D'ailleurs, si ça se trouve je n'existe pas. Alors...</p>
+

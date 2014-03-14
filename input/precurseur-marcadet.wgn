@@ -1,0 +1,11 @@
+title: Madame Marcadet
+lien: precurseur-marcadet.html
+category: Anticuisiniers
+image: http://www.quizz.biz/uploads/quizz/67418/9_3bm6b.jpg
+credit: <p>Madame Marcadet est un personnage des Robins des Bois, incarné par PEF.</p>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+<p>Un peu de sentiment, et d'humour "j'te salis ta gueule", dans ces sketchs des Robins des Bois, avec des recettes variées qui ont la particularité de cuisiner comme argument central des métiers : informaticien, aubergiste, taxidermiste, ... Vous nous avez quand même bien fait marrer les Robins des Bois.</p>
+

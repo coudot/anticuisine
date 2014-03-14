@@ -1,0 +1,11 @@
+﻿title: Gourmet Gaming
+lien: precurseur-gourmetgaming.html
+category: Web
+image: http://static.tumblr.com/555f9dc454d3100b41fcd06f8e4bd7b7/jnyriyi/vvzmgkm0x/tumblr_static_gg_headernew.png
+credit: <a href="http://www.gourmetgaming.co.uk/">Gourmet Gaming</a>>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+
+<p>L'invasion geek se poursuit. Toutes les recettes de vos jeux vidéos sont <a href="http://www.gourmetgaming.co.uk/recipes">ici</a>. On aurait préféré que ça reste virtuel donc non comestible mais passons. Comme c'est n'importe quoi, on aime quand même.</p>

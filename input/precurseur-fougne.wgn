@@ -1,0 +1,10 @@
+title: La foune
+lien: precurseur-fougne.html
+category: Films
+html: <iframe width="480" height="280" src="http://www.metacafe.com/watch/5524801/les_bronz_s_font_du_ski_extrait_vid_o_la_fougne/" frameborder="0" allowfullscreen></iframe>
+credit: <p>Extrait des Bronzés font du ski, par Patrice Leconte</p>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+<p>L'homme face à la foune. Une recette atypique (imaginaire) faite de tous les restes de fromage de l'année macérés avec du gras et de l'alcool de bois ; sans oublies couennes. Et il y a même des vers dedans, pour la viande.  Juste dégueulasse dans cette scène culte d'anticuisine.</p>

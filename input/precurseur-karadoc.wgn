@@ -1,0 +1,10 @@
+title: Karadoc
+lien: precurseur-karadoc.html
+category: Anticuisiniers
+image: http://www.kaamelott.tv/upload/karadoc.png
+credit: <p>Karadoc, personnage joué par Jean-Christophe Hembert, dans la série <a href="http://www.kaamelott.com/">Kaamelott</a>, créée par Alexandre Astier, Alain Kappauf et Jean-Yves Robin</a></p>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+<p>En tant que bon vivant à la papille sensible, on pourrait s'attendre à le retrouver dans la Rubrique "Ennemis" de l'Anticuisine, sauf que le chevalier de Vannes dort avec de la bouffe dans son lit ! Jambons, saucissons, fromages sont conservés sous les draps du lit conjugual afin de les affiner... C'est juste dégueulasse et l'Anticuisine c'est dégueulasse.</p>

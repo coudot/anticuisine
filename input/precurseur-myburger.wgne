@@ -1,0 +1,11 @@
+title: My burger
+lien: precurseur-myburger.html
+category: Web
+image: http://www.myburger.fr/images/site/banniere/banniere_16.gif
+credit: <a href="http://www.myburger.fr/accueil.php">My Burger</a>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+
+<p>Salut bande de bouffeurs de burgers ! Vous voulez tout savoir de l'actualité du burger. Lire des critiques épiques sur les mets des enseignes à burgers. Un site ne fait que ça depuis des années. Un clic est votre vie changera à tout jamais.</p>

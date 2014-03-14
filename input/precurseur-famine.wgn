@@ -1,0 +1,11 @@
+title: Famine
+lien: precurseur-famine.html
+category: Anticuisiniers
+image: 
+credit: <p>La Bible</p>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+<p>Ce personnage biblique est probablement un des plus anciens Anticuisinier connu de l'histoire de l'humanité. Il est un des quatres cavaliers de l'Apocalypse devant chevaucher à la fin du monde.</p>
+

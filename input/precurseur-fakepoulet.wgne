@@ -1,0 +1,12 @@
+title: Fake du poulet du KFC
+lien: precurseur-fakepoulet.html
+category: Actualités
+image: http://swagactu.com/wp-content/uploads/2014/02/mutant-chicken.png
+credit: <a href="http://swagactu.com/la-verite-sur-le-poulet-servi-au-kfc/">Sur SwagActu</a>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+
+<p>Un bon gros Fake d'Anticuisine en guise d'actu, alors qu'il suffisait de montrer la pâte beige dans le nugget pour faire flipper belle-maman.</p>
+

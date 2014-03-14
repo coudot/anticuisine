@@ -1,0 +1,12 @@
+title: Le Grand Restaurant
+lien: precurseur-grandrestaurant.html
+category: Films
+youtube: HPJOC9lGk
+credit: <p>Le Grand Restaurant, par Jacques Besnard</p>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+
+<p>Manger dans un restaurant étoilé, c'est assister à un balet de serveurs. Cet extrait de film avec Louis De Funès en patron d'un grand restaurant et toute sa fine équipe est simplement cultissime. </p>
+
