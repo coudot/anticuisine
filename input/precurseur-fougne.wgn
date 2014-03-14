@@ -1,7 +1,7 @@
 title: La foune
 lien: precurseur-fougne.html
 category: Films
-html: <iframe width="480" height="280" src="http://www.metacafe.com/watch/5524801/les_bronz_s_font_du_ski_extrait_vid_o_la_fougne/" frameborder="0" allowfullscreen></iframe>
+html: <iframe src="http://www.metacafe.com/embed/5524801/" width="440" height="248" allowFullScreen frameborder=0></iframe>
 credit: <p>Extrait des Bronzés font du ski, par Patrice Leconte</p>
 menu: read_file('menu.inc')
 pied: read_file('pied.inc')

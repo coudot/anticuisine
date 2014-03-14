@@ -1,7 +1,7 @@
 title: Kitchen Dales
 lien: precurseur-kitchendales.html
 category: Emissions
-html: <iframe width="480" height="280" src="http://www.ina.fr/video/PUB2327349029" frameborder="0" allowfullscreen></iframe>
+html: <iframe width='460' height='259' frameborder='0' marginheight ='0' marginwidth='0' scrolling ='no' src='http://player.ina.fr/player/embed/PUB2327349029/1/1b0bd203fbcd702f9bc9b10ac3d0fc21/460/259' ></iframe>
 credit: <p>Kitchen Dales, par Chantal Lauby</p>
 menu: read_file('menu.inc')
 pied: read_file('pied.inc')
