@@ -22,6 +22,8 @@ pied: read_file('pied.inc')
       <p>KPTN et Guilhem sont en train de colmater les quelques brèches résiduelles.</p>
       <p>Nuggette, qui est graphiste, est en train de le remettre intégralement en page.</p>
 
+      <a href="anticuisine.fr_livre_light_partie1.pdf" class="btn btn-lg btn-primary">Télécharger gratuitement les premières pages de la version light&nbsp;!</a>
+
       <div class="row">
 
          <div class="col-md-6">
@@ -29,7 +31,7 @@ pied: read_file('pied.inc')
            <ul>
              <li>Première maquette <span class="badge">100%</span></li>
              <li>Colmatage des fuites <span class="badge">95%</span></li>
-             <li>Mise en page pro <span class="badge">30%</span></li>
+             <li>Mise en page pro <span class="badge">60%</span></li>
              <li>Édition <span class="badge">0%</span></li>
            </ul>
          </div>
@@ -48,7 +50,7 @@ pied: read_file('pied.inc')
     </div>
 
     <div class="col-md-4">
-      <img src="images/anticuisine.fr_chaussons.jpg" class="img-thumbnail img-responsive" />
+      <img src="images/anticuisine.fr_couvLight.jpg" class="center-block img-thumbnail img-responsive" />
     </div>
 
   </div>
@@ -65,6 +67,9 @@ pied: read_file('pied.inc')
     <div class="col-md-6">
     <h2 class="text-center">Anticuisine light</h2>
     <em>(sera vendu sur un éditeur internet prochainement, peut-être par un éditeur traditionnel ensuite)</em>
+    <hr />
+    <img src="images/anticuisine.fr_couvLight.jpg" class="center-block img-thumbnail img-responsive" />
+    <hr />
     <ul>
       <li>Format plus petit</li>
       <li>Couverture souple</li>
@@ -80,6 +85,9 @@ pied: read_file('pied.inc')
     <div class="col-md-6">
     <h2 class="text-center">Anticuisine fat</h2>
     <em>(est un véritable objet livre, nous recherchons un éditeur traditionnel, condition sine qua non de sa publication)</em>
+    <hr />
+    <img src="images/anticuisine.fr_couvFat.jpg" class="center-block img-thumbnail img-responsive" />
+    <hr />
     <ul>
       <li>Grand format</li>
       <li>Couverture rigide</li>
