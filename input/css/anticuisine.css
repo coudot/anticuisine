@@ -2,14 +2,44 @@
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
 
+/* Change some fonts */
+@font-face {
+  font-family: "KaushanScript";
+  src: url("../fonts/KaushanScript-Regular.otf");
+}
+
+@font-face {
+  font-family: "GoodDog";
+  src: url("../fonts/GoodDog.otf");
+}
+
+.navbar {
+  font-family: "KaushanScript";
+  font-size: 1.3em;
+}
+
+.navbar-brand {
+  font-size: 1.5em;
+}
+
+h1,h2,h3,h4,h5,h5 {
+  font-family: "KaushanScript";
+}
+
+/* Main styles */
 
 html,
 body {
+  font-family: cursive;
   height: 100%;
   font-size: 1em;
   background-color: #f5f5f5;
   color: #5a5a5a;
   /* The html and body elements cannot have any padding or margin. */
+}
+
+a, a:hover {
+  text-decoration: none;
 }
 
 /* Wrapper for page content to push down footer */
