@@ -30,6 +30,12 @@ pied: read_file('pied.inc')
           <p>Une suite est possible.</p>
           <p>Dans un premier temps, après avoir franchi l'étape des essais et du "trailer" promotionnel, nous visons la réalisation du pilote pour mai-juin.</p>
           <p>Ensuite, nous déciderons de la suite à donner à ce projet.</p>
+
+          <button title="Tenez-moi au courant de la sortie du pilote de l'émission" name="email" type="button" class="center-block btn btn-info">
+            <span class="glyphicon glyphicon-envelope"></span>
+            Pour être prévenu de la sortie du pilote, nous écrire en cliquant ici
+          </button>
+
         </div>
         <div class="col-md-4">
           <img src="images/anticuisine.fr_emission_tournage1.jpg" class="img-thumbnail img-responsive center-block" />

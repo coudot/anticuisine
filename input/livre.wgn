@@ -22,7 +22,12 @@ pied: read_file('pied.inc')
       <p>KPTN et Guilhem sont en train de colmater les quelques brèches résiduelles.</p>
       <p>Nuggette, qui est graphiste, est en train de le remettre intégralement en page.</p>
 
-      <a href="anticuisine.fr_livre_light_partie1.pdf" class="btn btn-lg btn-primary">Télécharger gratuitement les premières pages de la version light&nbsp;!</a>
+      <p class="text-center">
+        <a href="anticuisine.fr_livre_light_partie1.pdf" class="btn btn-success">
+          <span class="glyphicon glyphicon-save"></span>
+          Télécharger gratuitement les premières pages de la version light&nbsp;!
+        </a>
+      </p>
 
       <div class="row">
 
@@ -46,6 +51,11 @@ pied: read_file('pied.inc')
            </ul>
          </div>
       </div>
+
+      <button title="Tenez-moi au courant de la sortie du livre" name="email" type="button" class="center-block btn btn-info">
+        <span class="glyphicon glyphicon-envelope"></span>
+        Pour être prévenu de la sortie du livre, nous écrire en cliquant ici
+      </button>
 
     </div>
 

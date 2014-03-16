@@ -17,9 +17,19 @@ precurseurs: file_glob('precurseur-*.wgn')
     </div>
     <div class="col-md-6">
       <h1 class="text-center">Les précurseurs</h1>
-        <div class="alert alert-info">
-          <p>D'orgines diverses, ils sont tous des précurseurs de l'anticuisine. Encore une preuve que l'anticuisine a toujours existé et existera toujours.</p>
-        </div>
+
+      <div class="alert alert-info">
+        <p>D'orgines diverses, ils sont tous des précurseurs de l'anticuisine. Encore une preuve que l'anticuisine a toujours existé et existera toujours.</p>
+      </div>
+
+      <div class="alert alert-warning">
+      <p>Vous pouvez nous suggérer un précurseur par mail. Vous en serez remercié sur la page l'équipe, sous un pseudo ou votre nom et sur cette même publication.</p>
+      <button title="Moi aussi j'ai une idée de précurseur" name="email" type="button" class="center-block btn btn-info">
+        <span class="glyphicon glyphicon-envelope"></span>
+        Envoyer une proposition
+      </button>
+      </div>
+
     </div>
   </div>
 </div>
