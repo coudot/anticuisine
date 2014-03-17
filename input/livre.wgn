@@ -78,7 +78,7 @@ pied: read_file('pied.inc')
     <h2 class="text-center">Anticuisine light</h2>
     <em>(sera vendu sur un éditeur internet prochainement, peut-être par un éditeur traditionnel ensuite)</em>
     <hr />
-    <img src="images/anticuisine.fr_couvLight.jpg" class="center-block img-thumbnail img-responsive" />
+    <img src="images/anticuisine.fr_couvLight.jpg" class="center-block img-thumbnail img-responsive" style="width:80%" />
     <hr />
     <ul>
       <li>Format plus petit</li>
