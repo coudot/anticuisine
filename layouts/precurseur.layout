@@ -41,8 +41,8 @@
 
     <ol class="breadcrumb">
       <li><a href="precurseurs.html">Les précurseurs</a></li>
-      <li><!-- tmpl_var name='category' escape='html' --></li>
-      <li class="active"><!-- tmpl_var name='title' escape='html' --></li>
+      <li><a href="precurseurs-<!-- tmpl_var name="category" -->.html"><!-- tmpl_var name='category' escape='html' --></a></li>
+      <li class="active"><a href="<!-- tmpl_var name="lien" -->"><!-- tmpl_var name='title' escape='html' --></a></li>
     </ol>
 
       <div class="well">

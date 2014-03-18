@@ -1,0 +1,35 @@
+title: Anticuisine - Les précurseurs - Films
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+category: Films
+precurseurs: file_glob('precurseur-*.wgn')
+output: precurseurs-Films.html
+----
+
+<!-- tmpl_var name="menu"-->
+
+<div class="top">&nbsp;</div>
+
+<div class="container">
+
+<ol class="breadcrumb">
+  <li><a href="precurseurs.html">Les précurseurs</a></li>
+  <li class="active"><a href="precurseurs-<!-- tmpl_var name="category" -->.html"><!-- tmpl_var name='category' escape='html' --></a></li>
+</ol>
+
+<div class="well">
+  <h1 class="text-center"><!-- tmpl_var name="category" --></h1>
+  <div class="<!-- tmpl_var name="category" -->">
+    <ul class="list-group">
+      <!-- tmpl_if name='precurseurs' -->
+      <!-- tmpl_loop name='precurseurs' -->
+        <li class="list-group-item <!-- tmpl_var name="category"-->">
+          <a href="<!-- tmpl_var name="lien"-->"><!-- tmpl_var name="title"--></a>
+        </li>
+      <!-- /tmpl_loop -->
+      <!-- /tmpl_if -->
+    </ul>
+  </div>
+</div>
+
+</div>
