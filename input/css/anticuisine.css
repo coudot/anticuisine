@@ -125,6 +125,14 @@ div.Blagues li.Blagues {
   display: block;
 }
 
+div.Boissons li {
+  display: none;
+}
+
+div.Boissons li.Boissons {
+  display: block;
+}
+
 div.Emissions li {
   display: none;
 }

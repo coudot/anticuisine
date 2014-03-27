@@ -100,6 +100,22 @@ precurseurs: file_glob('precurseur-*.wgn')
         </ul>
       </div>
     </div>
+    <div class="panel panel-info">
+      <div class="panel-heading">
+        <h1 class="panel-title">Musique</h1>
+      </div>
+      <div class="panel-body Musique">
+        <ul class="list-group">
+        <!-- tmpl_if name='precurseurs' -->
+        <!-- tmpl_loop name='precurseurs' -->
+        <li class="list-group-item <!-- tmpl_var name="category"-->">
+          <a href="<!-- tmpl_var name="lien"-->"><!-- tmpl_var name="title"--></a>
+        </li>
+        <!-- /tmpl_loop -->
+        <!-- /tmpl_if -->
+        </ul>
+      </div>
+    </div>
   </div>
   <div class="col-md-4">
     <div class="panel panel-success">
@@ -186,6 +202,22 @@ precurseurs: file_glob('precurseur-*.wgn')
     </div>
     <div class="panel panel-success">
       <div class="panel-heading">
+        <h1 class="panel-title">Boissons</h1>
+      </div>
+      <div class="panel-body Boissons">
+        <ul class="list-group">
+        <!-- tmpl_if name='precurseurs' -->
+        <!-- tmpl_loop name='precurseurs' -->
+        <li class="list-group-item <!-- tmpl_var name="category"-->">
+          <a href="<!-- tmpl_var name="lien"-->"><!-- tmpl_var name="title"--></a>
+        </li>
+        <!-- /tmpl_loop -->
+        <!-- /tmpl_if -->
+        </ul>
+      </div>
+    </div>
+    <div class="panel panel-success">
+      <div class="panel-heading">
         <h1 class="panel-title">Ennemis</h1>
       </div>
       <div class="panel-body Ennemis">
@@ -221,22 +253,6 @@ precurseurs: file_glob('precurseur-*.wgn')
         <h1 class="panel-title">Livres</h1>
       </div>
       <div class="panel-body Livres">
-        <ul class="list-group">
-        <!-- tmpl_if name='precurseurs' -->
-        <!-- tmpl_loop name='precurseurs' -->
-        <li class="list-group-item <!-- tmpl_var name="category"-->">
-          <a href="<!-- tmpl_var name="lien"-->"><!-- tmpl_var name="title"--></a>
-        </li>
-        <!-- /tmpl_loop -->
-        <!-- /tmpl_if -->
-        </ul>
-      </div>
-    </div>
-    <div class="panel panel-info">
-      <div class="panel-heading">
-        <h1 class="panel-title">Musique</h1>
-      </div>
-      <div class="panel-body Musique">
         <ul class="list-group">
         <!-- tmpl_if name='precurseurs' -->
         <!-- tmpl_loop name='precurseurs' -->

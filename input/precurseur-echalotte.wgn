@@ -1,0 +1,12 @@
+title: La liqueur d'échalotte
+lien: precurseur-echalotte.html
+category: Boissons
+dailymotion: x398yh
+credit: <p>extrait des Bronzés font du ski, par Patrice Leconte</p>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+
+<p>La scène mythique où la troupe du Splendid déguste une vraie liqueur de montagne. "Et comment vous faites entrer le crapaud dans la bouteille ?"</p>
+

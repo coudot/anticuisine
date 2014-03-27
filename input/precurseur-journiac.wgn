@@ -1,0 +1,12 @@
+title: Ceci est mon sang
+lien: precurseur-journiac.html
+category: Art
+image: http://www.paris-art.com/img_news/createur/g_PD09Journiac01.jpg
+credit: <p>Michel Journiac, Messe pour un corps</p>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+
+<p>Le corps n'étant qu'une viande conscience socialisée, on peut en faire du boudin sans problème. C'est une des démarches de cet ariste qui a choqué et choque encore.</p>
+

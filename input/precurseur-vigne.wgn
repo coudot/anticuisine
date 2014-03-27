@@ -1,0 +1,10 @@
+title: La vigne rétroannuelle
+lien: precurseur-vigne.html
+category: Boissons
+image: http://ifisdead.net/wp-content/uploads/2012/03/Disque-Monde-Ankh-Morpork-de-Martin-Wallace.jpg
+credit: <p>Le Disque-Monde, un univers créé par Terry Pratchett</p>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+<p>Terry Pratchett a révolutionné l'univers étriqué de la gueule de bois. Imaginez. Vous avez mal à la tête d'un seul coup : la grosse gueule de bois alors que vous n'avez pas bu la veille. Tout va bien. Rassurez-vous. C'est demain que vous allez vous en coller une. Et pas avec n'importe quel vin, avec celui fabriqué avec du raisin de vignes rétroannuelles, une variété qui pousse à rebrousse temps...</p>

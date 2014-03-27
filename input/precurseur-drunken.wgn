@@ -1,0 +1,12 @@
+title: Drunken Master
+lien: precurseur-drunken.html
+category: Boissons
+youtube: ebL_gVmIC-A
+credit: <p>Drunken Master, par Yuen Woo-ping</p>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+
+<p>Picoler donne-t-il un meilleur kung fu ? Jackie Chan a la réponse.</p>
+

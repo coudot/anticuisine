@@ -1,0 +1,12 @@
+title: Pat le chef
+lien: precurseur-pat.html
+category: Emissions
+<iframe src="//player.vimeo.com/video/37703315" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/37703315">Pat le Chef - Casserole au thon</a> from <a href="http://vimeo.com/33mag">33mag</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+credit: <p>Pat le chef, une émission de diffusée sur MCM</p>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+
+<p>Un homme qui essaie de réconcilier les hommes et les lesbiennes fâchés avec la cuisine mais en se fachant avec les féministes. A la fin de chaque recette cuisinée par Pat le Chef, l'homme moyen se dit "Ouaaaaahh !", salive mystérieusement pour des raisons hautement culinaires et s'interroge "Quelle était la recette déjà ?"</p>
+

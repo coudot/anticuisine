@@ -1,0 +1,12 @@
+title: Epic Meal Time
+lien: precurseur-epic.html
+category: Emissions
+youtube: qnydFmqHuVo
+credit: <p>Vidéo Youtube, par <a href="https://www.youtube.com/user/EpicMealTime"> Epic Mealt Time </a></p>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+
+<p>De la junk food + de la junk food = de l'hyper junk food. Ils utilisent des pizzas ou des burgers en guise d'ingrédient à part entière ou fabriquent des méga-machins. C'est gras, c'est bourrin. L'Anticuisine aime.</p>
+

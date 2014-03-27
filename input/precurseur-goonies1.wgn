@@ -1,0 +1,12 @@
+title: Cynok aime choco
+lien: precurseur-goonies1.html
+category: Films
+youtube: Xhm0uG1JUz4
+credit: <p>Les Goonies, par Richard Donner</p>
+menu: read_file('menu.inc')
+pied: read_file('pied.inc')
+layout: precurseur.layout
+----
+
+<p>Le chocolat est maintenant reconnu comme une substance addictive. La preuve en image. </p>
+
