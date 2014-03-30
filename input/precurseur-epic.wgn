@@ -1,8 +1,8 @@
 title: Epic Meal Time
 lien: precurseur-epic.html
 category: Emissions
-youtube: qnydFmqHuVo
-credit: <p>Vidéo Youtube, par <a href="https://www.youtube.com/user/EpicMealTime"> Epic Mealt Time </a></p>
+youtube: zNsphUzFw
+credit: <p>Vidéo Youtube, par <a href="https://www.youtube.com/user/EpicMealTime"> Epic Meal Time </a></p>
 menu: read_file('menu.inc')
 pied: read_file('pied.inc')
 layout: precurseur.layout

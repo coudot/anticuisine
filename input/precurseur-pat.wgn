@@ -1,7 +1,7 @@
 title: Pat le chef
 lien: precurseur-pat.html
 category: Emissions
-<iframe src="//player.vimeo.com/video/37703315" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/37703315">Pat le Chef - Casserole au thon</a> from <a href="http://vimeo.com/33mag">33mag</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+html: <iframe src="//player.vimeo.com/video/37703315" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/37703315">Pat le Chef - Casserole au thon</a> from <a href="http://vimeo.com/33mag">33mag</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 credit: <p>Pat le chef, une émission de diffusée sur MCM</p>
 menu: read_file('menu.inc')
 pied: read_file('pied.inc')

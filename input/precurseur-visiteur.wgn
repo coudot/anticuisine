@@ -2,7 +2,7 @@ title: It' the end...
 lien: precurseur-visiteur.html
 category: Futur
 youtube: VKcTKwUmoDs
-credit: <a href="www.levisiteurdufutur.com/‎"> Le Visiteur du Futur, par François Descraques</a>
+credit: <a href="http://www.levisiteurdufutur.com"> Le Visiteur du Futur, par François Descraques</a>
 menu: read_file('menu.inc')
 pied: read_file('pied.inc')
 layout: precurseur.layout
