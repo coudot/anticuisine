@@ -17,6 +17,12 @@ pied: read_file('pied.inc')
         <div class="col-md-6">
           <h1 class="text-center">La propagande</h1>
           <p>Vous aimez l'anticuisine ? Vous pouvez nous aider à faire avancer notre cause en partageant ces contenus.</p>
+          <h2 class="text-center">Presse</h2>
+          <p>Téléchargez nos documents officiels&nbsp;:</p>
+          <ul>
+            <li><a href="anticuisine.fr_communique_de_presse.pdf">Communiqué de presse</a></li>
+            <li><a href="anticuisine.fr_dossier_de_presse.pdf">Dossier de presse</a></li>
+          </ul>
         </div>
       </div>
   </div>
