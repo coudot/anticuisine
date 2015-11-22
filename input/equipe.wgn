@@ -15,21 +15,9 @@ pied: read_file('pied.inc')
     <h1 class="panel-title text-center">L'auteur</h1>
   </div>
 
-  <div class="row panel-body">
-    <div class="col-md-4">
+  <div class="panel-body">
       <h2 class="text-center">Guilhem</h2>
       <img src="images/anticuisine.fr_equipe_guilhem.jpg" class="img-circle img-responsive center-block" />
-    </div>
-    <div class="col-md-8">
-<h3>Présentation</h3>
-<p>J'ai 33 ans. J'écris depuis mes 24 ans mais je me suis interrompu ces dernières années pour avoir trois enfants. Ayant atteint la limite fatidique au delà de laquelle l'achat d'une nouvelle voiture devient indispensable et comme je n'ai pas d'argent - ni de tendances suicidaires - je me suis arrêté de procréer et je me suis libéré du temps libre. Je me consacre à nouveau, sous le regard patient de ma compagne, à ma passion de toujours : l'écriture.</p>
-<p>En véritable écrit en vain que je suis, j'ai déjà commis un roman et je suis en train d'en commettre deux autres. Ce livre d'anticuisine est un petit projet décalé qui a moisi pendant quatre ans dans un trieur sordide et pour lequel de nombreuses personnes m'ont aidé. Sous la pression de mon entourage, il resurgit aujourd'hui pour illuminer le monde de son intelligente bêtise mais sous une forme plus aboutie. Grâce à Clément Oudot, une sorte de muse pour moi, grâce à Emilie Sidoli, une sorte de graphiste pour moi (...une amie), ce livre va voir le jour et s'écouler à 11 exemplaires !</p>
-<p>Pire encore, j'ai décidé de commettre les scénarios d'une émission / websérie afin de ne pas être le seul mec de ma génération à ne pas savoir poster une vidéo sur youtube. J'ai donc pris contact avec un vieil ami dans l'audio-visuel : Olivier Z, qui a mobilisé son réseau.</p>
-<p>Afin d'éviter un internement précoce suivi d'une mise sous tutelle, je me refuse à évoquer mes nombreux autres projets. Comme vous l'aurez compris j'écris sans me prendre au sérieux en essayant de distraire et de faire rire.</p>
-<p>Comme j'ai un métier dans la vraie vie pour lequel une certaine image de neutralité est nécessaire, je me cache derrière un pseudonyme et une casquette rose, qui était rouge quand j'avais 12 ans. Je ne suis donc pas un escroc financier ; intellectuellement parlant par contre je m'inquiète parfois moi-même. D'ailleurs, je vais m'arrêter d'écrire sur moi-même car je commence à m'angoisser.</p>
-<p>Merci de m'aider à échouer dans ma carrière d'Ecrit-en-vain !</p>
-<p>Bisée.</p>
-    </div>
   </div>
 
   </div>
@@ -41,25 +29,13 @@ pied: read_file('pied.inc')
   </div>
 
   <div class="row panel-body">
-    <div class="col-md-3">
+    <div class="col-md-6">
       <h2 class="text-center">AA</h2>
       <img src="images/anticuisine.fr_equipe_aa.jpg" class="img-circle img-responsive center-block" />
     </div>
-    <div class="col-md-3">
-<h3>Présentation</h3>
-<p>J'ai 34 ans mais j'en fais 24. Je suis la compagne de Guilhem.</p>
-<p>J'ai toujours dessiné à mes moments perdus. Bon je ne suis pas fan des blattes que Guilhem m'a demandé de dessiner mais que ne ferais-je pas pour qu'il me laisse tranquille !</p>
-<p>Je participe à ce projet sous pseudonyme pour les mêmes raisons que Guilhem ; je ne suis pas non plus une escroc.</p>
-    </div>
-    <div class="col-md-3">
+    <div class="col-md-6">
       <h2 class="text-center">Alice</h2>
       <img src="images/anticuisine.fr_equipe_alice.jpg" class="img-circle img-responsive center-block" />
-    </div>
-    <div class="col-md-3">
-<h3>Présentation</h3>
-<p>Mon prénom, Alice, qui signifie noble ou noble de race, ne me va finalement pas du tout, bien que je l'aime assez.</p>
-<p>Humble fille et femme d'agriculteur, Normande jusqu'au bout des ongles, crochus (je rigole), qui dessine depuis toujours en cours, c'est  lors de ces derniers que j'ai connu et me suis faite connaître en tant que pseudo-dessinatrice, grâce à mes gribouillages, par Guilhem.</p>
-<p>Fan d'arts martiaux et d'Art tout court, mais aussi d'humour, et par extension, de bouffe (rien à voir, je sais...) ce projet m'a toujours fait rire, ce qui en soi est une bonne chose pour combattre les rides.</p>
     </div>
 
   </div>
@@ -73,27 +49,13 @@ pied: read_file('pied.inc')
   </div>
 
   <div class="row panel-body">
-    <div class="col-md-3">
+    <div class="col-md-6">
       <h2 class="text-center">Nuggette</h2>
       <img src="images/anticuisine.fr_equipe_nugget.jpg" class="img-circle img-responsive center-block" />
     </div>
-    <div class="col-md-3">
-<h3>Présentation</h3>
-<p>Je m'appelle Emilie SIDOLI, alias Nuggette et je suis graphiste. J'aime l'absurde et la bonne bouffe alors j'ai tout de suite adhéré au projet de Guilhem !</p>
-<p>J'apporte mon humble contribution en travaillant la mise en page (choix typo, agencement des contenus, etc...) du livre.</p>
-<p>Et j'espère faire d'une pierre deux coups : aboutir ce chouette projet et perdre mes kilos d'hiver (au rythme de 1 à 2 vomis par recette travaillée, ça peut le faire).</p>
-    </div>
-    <div class="col-md-3">
+    <div class="col-md-6">
       <h2 class="text-center">KPTN</h2>
       <img src="images/anticuisine.fr_equipe_kptn.png" class="img-circle img-responsive center-block" />
-    </div>
-    <div class="col-md-3">
-<h3>Présentation</h3>
-<p>Moi je ne m'appelle pas, ça fait planter mon téléphone. Sinon mon surnom c'est KPTN. J'habite à Lyon et j'ai des obligations familiales, mais ça va. J'ai eu 20 ans en l'an 2000.</p>
-<p>Je m'occupe comme je peux, mais une partie de ma vie personnelle est désormais accaparée par les projets de Guilhem, mon ex.</p>
-<p>Dans la vraie vie, je travaille dans le logiciel libre. Je m'occupe donc entre autres de ce site, à la pointe des nouvelles technologies, mais compatible avec le minitel.</p>
-<p>Comme Strubulu, je suis adepte d'improvisation théâtrale (membre de <a href="http://www.improcite.com">Improcité</a>) et de musique (auteur/compositeur/interprète/inconnu).</p>
-<p>Si vous avez lu tout ça, vous êtes vraiment courageux.</p>
     </div>
   </div>
  
@@ -108,42 +70,17 @@ pied: read_file('pied.inc')
   <div class="panel-body">
 
   <div class="row">
-    <div class="col-md-8">
-<h3>Présentation</h3>
-<p>J'ai 33 ans et je passe mon temps de travail à dessiner de magnifiques lignes sur info pour voir si des ouvriers plus ou moins qualifiés peuvent les reproduire en béton dans la vraie vie, c'est devenu une addiction, une vraie passion; je vais d'ailleurs bientôt passer aux courbes, pour la déconne.</p>
-<p>Sinon dans mon autre vie je fais du théâtre d'improvisation dans 2 troupes d'impro, les <a href="https://www.facebook.com/replikatou">Replikatou</a> et les <a href="https://www.facebook.com/13alouest">13 à l'ouest</a>, et je suis officieusement dans un groupe de musique, <a href="https://www.facebook.com/les2dufond">les 2 du fond</a>; tout ça me permet de renforcer mes capacités schizophrènes de manière exponentielle.</p>
-<p>J'improvise depuis maintenant 4 ans, j'ai donc pu accumuler assez de bêtises pour pouvoir accepter un projet comme celui-ci.</p>
-<p>Je connais les manitous de ce projet depuis (trop) longtemps; et les suivre dans cet énième délire fera de moi la star internationale de la rue Dalayrac de ma ville, c'est cool !</p>
-<p>Véritable créateur-joueur, j'adore jouer, je joue continuellement, je joue aussi à taper sur les touches des claviers qsfkfkjdfoJQF*FOSDFHOIk</p>
-<p>Strubulu est mon pseudo sur le net ;)</p>
-<p>Merci de votre soutien !</p>
-    </div>
     <div class="col-md-4">
       <h2 class="text-center">Strubulu</h2>
       <img src="images/anticuisine.fr_equipe_strub.jpg" class="img-circle img-responsive center-block" />
     </div>
-  </div>
-
-  <div class="row">
-    <div class="col-md-3">
+    <div class="col-md-4">
       <h2 class="-text-center">Olivier Z</h2>
       <img src="images/anticuisine.fr_equipe_oz.jpg" class="img-circle img-responsive center-block" />
     </div>
-    <div class="col-md-3">
-<h3>Présentation</h3>
-<p>J'ai 33 ans, j'habite Paris. Et pour cause, je travaille dans l'audiovisuel depuis 2005, après des études de cinoche, à divers postes - image, montage. La réalisation est pour l'instant une activité parallèle, mais j'ambitionne qu'elle devienne prépondérante à terme. Mon statut de saltimbanque me permet une belle liberté dans le choix de mes projets en tout cas.</p>
-<p>Néanmoins, l'auteur Guilhem étant un camarade de lycée, je n'ai pu décemment refuser son offre de mettre en scène cette émission, donc me voilà embarqué dans cette galère ! Bon à sa décharge, il me laisse bosser tranquillement, et tyranniser l'équipe comme je l'entends (par exemple quand le comédien est filmé en plan taille, j'exige qu'il soit nu en dessous, c'est essentiel pour la qualité de son jeu), alors ça se passe plutôt bien. Et qui sait, c'est même peut-être le début d'une grande et fructueuse collaboration !</p>
-    </div>
-    <div class="col-md-3">
+    <div class="col-md-4">
       <h2 class="text-center">Valentin Garret</h2>
       <img src="images/anticuisine.fr_equipe_valentin.jpg" class="img-circle img-responsive center-block" />
-    </div>
-    <div class="col-md-3">
-<h3>Présentation</h3>
-<p>Hello ! Et bien, j'ai 25 ans, je suis Sound Designer pour jeux vidéo, j'ai fait une école de cinéma et travaillé dans une boîte de prod', je suis très polyvalent (j'ai déjà fait du cadre, et pas mal de montage) !</p>
-<p>J'ai passé l'année dernière à Montréal, j'ai fait un stage à Ubisoft Montréal, je suis revenu l'été dernier et je recherche actuellement un job !</p>
-<p>Je m'occupe de la prise de son et du sound design pour l'émission d'Anticuisine.</p>
-<p>Pour voir mes travaux : <a href="http://www.valentingarret.com">www.valentingarret.com</a></p>
     </div>
   </div>
 
@@ -188,27 +125,6 @@ pied: read_file('pied.inc')
         <div class="well"><strong>Mathieu Moreaud</strong> a tout particulièrement contribué à enrichir le livre, par ses idées, ses réalisations de recettes, son enthousiasme, sans oublier sa folie furieuse.</li></div>
       </div>
     </div>
-  </div>
-  </div>
-
-  <div class="panel panel-danger">
-
-  <div class="panel-heading">
-    <h1 class="panel-title text-center">Remerciements spéciaux</h1>
-  </div>
-
-  <div class="panel-body">
-<p>Dans la première maquette du livre d'anticuisine qui devait initialement être une oeuvre caritative, un certains nombres de personnalités ont accepté que certaines de leurs productions y figurent. Même si ce livre n'existera pas dans sa forme initiale, je souhaite remercier chaleureusement :</p>
-<ul>
-<li>Ju Duoqi, artiste chinoise, et la galerie Paris-Beijing</li>
-<li>Daniel Spoerri, artiste suisse, et la Schweizerische Nationalbibliothek</li>
-<li>Martin Vidberg, auteur de B.D français</li>
-<li>Nir Adar, artiste new-yorkais, et son photographe Peter Pioppo</li>
-<li>Stefan Nadelman, réalisateur américain et son studio Curious Pictures</li>
-<li>Us Design Studio</li>
-<li>Philippe Rekacewicz, géographe, cartographe et journaliste</li>
-<li>Larry Bach, pâtissier américain</li>
-</ul>
   </div>
   </div>
 
