@@ -12,105 +12,26 @@ pied: read_file('pied.inc')
 <div class="panel panel-info">
 
   <div class="panel-heading">
-    <h1 class="panel-title text-center">Avancement de la maquette</h1>
+    <h1 class="panel-title text-center">Le petit livre de l'anticuisine</h1>
   </div>
 
-  <div class="row panel-body">
+  <div class="panel-body">
 
-    <div class="col-md-8">
-      <p>Une maquette du livre d'anticuisine existe déjà.</p>
-      <p>KPTN et Guilhem sont en train de colmater les quelques brèches résiduelles.</p>
-      <p>Nuggette, qui est graphiste, est en train de le remettre intégralement en page.</p>
+      <div class="text-center alert alert-warning">Un livre est en préparation</div>
+
+      <hr />
+
+      <img src="images/anticuisine.fr_couvLight.jpg" class="center-block img-thumbnail img-responsive" />
+
+      <hr />
 
       <p class="text-center">
         <a href="anticuisine.fr_livre_light_partie1.pdf" class="btn btn-success">
           <span class="glyphicon glyphicon-save"></span>
-          Télécharger gratuitement les premières pages de la version light&nbsp;!
+          Télécharger gratuitement les premières pages&nbsp;!
         </a>
       </p>
 
-      <div class="row">
-
-         <div class="col-md-6">
-           <h3 class="text-center">Version light</h3>
-           <ul>
-             <li>Première maquette <span class="badge">100%</span></li>
-             <li>Colmatage des fuites <span class="badge">95%</span></li>
-             <li>Mise en page pro <span class="badge">60%</span></li>
-             <li>Édition <span class="badge">0%</span></li>
-           </ul>
-         </div>
-
-         <div class="col-md-6">
-           <h3 class="text-center">Version fat</h3>
-           <ul>
-             <li>Première maquette <span class="badge">100%</span></li>
-             <li>Colmatage des fuites <span class="badge">70%</span></li>
-             <li>Mise en page pro <span class="badge">10%</span></li>
-             <li>Édition <span class="badge">0%</span></li>
-           </ul>
-         </div>
-      </div>
-
-      <button title="Tenez-moi au courant de la sortie du livre" name="email" type="button" class="center-block btn btn-info">
-        <span class="glyphicon glyphicon-envelope"></span>
-        Pour être prévenu de la sortie du livre, nous écrire en cliquant ici
-      </button>
-
-    </div>
-
-    <div class="col-md-4">
-      <img src="images/anticuisine.fr_couvLight.jpg" class="center-block img-thumbnail img-responsive" />
-    </div>
-
-  </div>
-
-</div>
-
-<div class="panel panel-success">
-
-  <div class="panel-heading">
-    <h1 class="panel-title text-center">Deux versions seront disponibles</h1>
-  </div>
-
-  <div class="panel-body row">
-    <div class="col-md-6">
-    <h2 class="text-center">Anticuisine light</h2>
-    <em>(sera vendu sur un éditeur internet prochainement, peut-être par un éditeur traditionnel ensuite)</em>
-    <hr />
-    <img src="images/anticuisine.fr_couvLight.jpg" class="center-block img-thumbnail img-responsive" style="width:80%" />
-    <hr />
-    <ul>
-      <li>Format plus petit</li>
-      <li>Couverture souple</li>
-      <li>1 page pour dénoncer ses amis anticuisiniers</li>
-      <li>36 dessins</li>
-      <li>32 recettes</li>
-      <li>8 pages "trucs et astuces"</li>
-      <li>8 photos pleines pages</li>
-      <li>Prix : pour les petites bourses qui veulent amuser un ami</li>
-    </ul>
-    </div>
-
-    <div class="col-md-6">
-    <h2 class="text-center">Anticuisine fat</h2>
-    <em>(est un véritable objet livre, nous recherchons un éditeur traditionnel, condition sine qua non de sa publication)</em>
-    <hr />
-    <img src="images/anticuisine.fr_couvFat.jpg" class="center-block img-thumbnail img-responsive" />
-    <hr />
-    <ul>
-      <li>Grand format</li>
-      <li>Couverture rigide</li>
-      <li>1 page pour dénoncer ses amis anticuisiniers</li>
-      <li>52 dessins</li>
-      <li>48 recettes</li>
-      <li>48 photos pleines pages (dont des oeuvres d'artistes reconnues pour lesquels des droits doivent être payés)</li>
-      <li>8 pages "trucs et astuces"</li>
-      <li>8 pages "la galaxie anticuisine"</li>
-      <li>Un top 10 des pires ennemis de l'anticuisine</li>
-      <li>Prix : à offrir en cadeau à belle-maman à Noël</li>
-    </ul>
-    </div>
   </div>
 
 </div>
