@@ -18,6 +18,7 @@ pied: read_file('pied.inc')
   <div class="panel-body">
       <h2 class="text-center">Guilhem</h2>
       <img src="images/anticuisine.fr_equipe_guilhem.jpg" class="img-circle img-responsive center-block" />
+      <h3 class="text-center"><a href="https://www.facebook.com/Guilhem-53297726330/?fref=ts">Page Facebook</a></h3>
   </div>
 
   </div>

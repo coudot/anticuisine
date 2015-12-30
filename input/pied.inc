@@ -2,7 +2,7 @@
   <footer>
   <div class="row">
     <div class="col-md-6">
-      <p>&copy; anticuisine.fr par <a href="http://guilhem0.free.fr/" class="btn btn-default">Guilhem</a> &middot; Tous droits réservés</p>
+      <p>&copy; anticuisine.fr par <a href="https://www.facebook.com/Guilhem-53297726330/?fref=ts" class="btn btn-default">Guilhem</a> &middot; Tous droits réservés</p>
     </div>
     <div class="col-md-6">
       <p>
