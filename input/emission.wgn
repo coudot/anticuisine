@@ -17,7 +17,7 @@ pied: read_file('pied.inc')
 
     <div class="panel-body">
         <div class="text-center embed-responsive embed-responsive-16by9">
-          <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/W4TtZpr3m8w" allowfullscreen></iframe>
+          <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/e6aKMwXzyiE" allowfullscreen></iframe>
         </div>
     </div>
   </div>
